@@ -1,0 +1,220 @@
+Report for Institution Code KU, Resource kubi_ornithology_tissue
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 2267
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 9
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Cyprus ; Times: 1
+	Country: Guam ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 112
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-02 ; Times: 1
+	Date: 2014-09-03 ; Times: 8
+	Date: 2014-09-05 ; Times: 13
+	Date: 2014-09-06 ; Times: 25
+	Date: 2014-09-08 ; Times: 21
+	Date: 2014-09-09 ; Times: 13
+	Date: 2014-09-10 ; Times: 7
+	Date: 2014-09-11 ; Times: 5
+	Date: 2014-09-12 ; Times: 3
+	Date: 2014-09-13 ; Times: 1
+	Date: 2014-09-15 ; Times: 19
+	Date: 2014-09-16 ; Times: 6
+	Date: 2014-09-17 ; Times: 9
+	Date: 2014-09-18 ; Times: 2
+	Date: 2014-09-19 ; Times: 13
+	Date: 2014-09-22 ; Times: 4
+	Date: 2014-09-23 ; Times: 1
+	Date: 2014-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 9
+	Query: "Phyllastrephus tissue:1" ; Times: 2
+	Query: "Syrrhaptes tissue:1" ; Times: 1
+	Query: "Pipra mentalis tissue:1" ; Times: 1
+	Query: "Anthus type:specimen tissue:1" ; Times: 1
+	Query: "Tyrannus tyrannus institutioncode:KU" ; Times: 2
+	Query: "Batis tissue:1" ; Times: 1
+	Query: "Prunella modularis tissue:1" ; Times: 1
+	Query: "Hemiprocne tissue:1" ; Times: 1
+	Query: "Empidonax type:specimen tissue:1" ; Times: 1
+	Query: "Treron type:specimen tissue:1" ; Times: 1
+	Query: "Oenanthe tissue:1" ; Times: 3
+	Query: "sephanoides" ; Times: 1
+	Query: "Onychorhynchus coronatus type:specimen tissue:1" ; Times: 1
+	Query: ""taeniopygia guttata" tissue:1" ; Times: 1
+	Query: "ammodramus humeralis tissue" ; Times: 3
+	Query: "cyanocompsa brissonii tissue:1" ; Times: 1
+	Query: "schistochlamys melanopis tissue" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Pipra cornuta tissue:1" ; Times: 1
+	Query: "Ptilinopus tissue:1" ; Times: 1
+	Query: "contopus virens type:specimen tissue:1" ; Times: 1
+	Query: "geothlypis aequinoctialis tissue" ; Times: 1
+	Query: "celeus KU 3204" ; Times: 1
+	Query: "Lanius type:specimen tissue:1" ; Times: 3
+	Query: "syndactyla rufosuperciliata" ; Times: 2
+	Query: "Parotia wahnesi" ; Times: 1
+	Query: "JACANIDAE tissue:1" ; Times: 1
+	Query: "emberizoides herbicola tissue" ; Times: 1
+	Query: "Prunella fulvescens tissue:1" ; Times: 1
+	Query: "catharus fuscescens tissue:1" ; Times: 1
+	Query: "Eurystomus type:specimen tissue:1" ; Times: 1
+	Query: "sheppardia tissue:1" ; Times: 1
+	Query: "sporophila leucoptera tissue" ; Times: 1
+	Query: "Perdix type:specimen tissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:KU tissue:1" ; Times: 2
+	Query: "Mellisuga minima" ; Times: 1
+	Query: "pipra filicauda pipra filicauda type:specimen tissue:1" ; Times: 1
+	Query: "sublegatus modestus tissue" ; Times: 1
+	Query: "empidonax tissue:1" ; Times: 2
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1980 year <= 2014" ; Times: 2
+	Query: "Tanysiptera tissue:1" ; Times: 2
+	Query: "Tephrodornis type:specimen tissue:1" ; Times: 1
+	Query: "Macropygia tissue:1" ; Times: 3
+	Query: "celeus KU 304" ; Times: 1
+	Query: "Falconidae type:specimen year >= 1940 year <= 2014 mappable:1" ; Times: 1
+	Query: "Merops type:specimen tissue:1" ; Times: 1
+	Query: "Sporophila bouvreuil mappable:1" ; Times: 1
+	Query: "caprimulgus tissue:1" ; Times: 2
+	Query: "sturnella superciliaris tissue" ; Times: 1
+	Query: "sporophila plumbea tissue" ; Times: 1
+	Query: "accipiter castanilius" ; Times: 3
+	Query: "Tyrannus verticalis institutioncode:KU" ; Times: 1
+	Query: "dicaeum australe cebu" ; Times: 1
+	Query: "Macropygia mackinlayi tissue:1" ; Times: 2
+	Query: "Prunella type:specimen tissue:1" ; Times: 2
+	Query: "dicaeum australe" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "Malurus grayi" ; Times: 1
+	Query: "formicivora rufa tissue" ; Times: 1
+	Query: "Empidonax virescens type:specimen tissue:1" ; Times: 1
+	Query: "Enicurus tissue:1" ; Times: 2
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "Lanius tissue:1" ; Times: 1
+	Query: "sicalis luteola tissue" ; Times: 2
+	Query: "pipra filicauda type:specimen" ; Times: 1
+	Query: "Anthreptes tissue:1" ; Times: 1
+	Query: "Prunella koslowi tissue:1" ; Times: 1
+	Query: "(cyanocompsa) tissue:1" ; Times: 3
+	Query: "ptilinopus type:specimen tissue:1" ; Times: 3
+	Query: ""Falco rufigularis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "gallirallus owstoni" ; Times: 4
+	Query: "polytmus guainumbi tissue" ; Times: 1
+	Query: "picumnus cirratus tissue" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "oenanthe tissue:1" ; Times: 3
+	Query: "Ploceus type:specimen tissue:1" ; Times: 1
+	Query: "Rostrhamus sociabilis paraguay" ; Times: 1
+	Query: "Prunella immaculata tissue:1" ; Times: 1
+	Query: "Pipra rubrocapilla tissue:1" ; Times: 1
+	Query: "sublegatus arenarum tissue" ; Times: 1
+	Query: "Psittacidae mappable:1 tissue:1" ; Times: 1
+	Query: "hypsipetes philippinus cebu" ; Times: 1
+	Query: "Pipra erythrocephala tissue:1" ; Times: 3
+	Query: "Coracias tissue:1" ; Times: 2
+	Query: "Ptilinopus type:specimen tissue:1" ; Times: 3
+	Query: "macropygia type:specimen tissue:1" ; Times: 1
+	Query: "Tyrannus forficatus institutioncode:KU" ; Times: 2
+	Query: "Gallirallus owstoni" ; Times: 2
+	Query: "Doricha eliza" ; Times: 1
+	Query: "Macropygia ruficeps tissue:1" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen mappable:1" ; Times: 1
+	Query: "tissue genus:Turdus class:Aves institutioncode:KU" ; Times: 2
+	Query: "Macropygia nigrirostris tissue:1" ; Times: 1
+	Query: "Prunella himalayana tissue:1" ; Times: 1
+	Query: "Falconidae type:specimen AND (NOT sparverius) year >= 1940 year <= 2014 mappable:1" ; Times: 1
+	Query: "Tyrannus verticalis type:specimen" ; Times: 1
+	Query: "Pericrocotus type:specimen tissue:1" ; Times: 1
+	Query: "Prunella strophiata tissue:1" ; Times: 1
+	Query: "Psittacidae tissue:1" ; Times: 2
+	Query: "asthenes palpebralis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 164 download events in this period)
+Total number of records downloaded: 1166 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 793
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Cyprus ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 2
+	Date: 2014-09-03 ; Times: 1
+	Date: 2014-09-04 ; Times: 1
+	Date: 2014-09-05 ; Times: 2
+	Date: 2014-09-08 ; Times: 2
+	Date: 2014-09-09 ; Times: 2
+	Date: 2014-09-11 ; Times: 1
+	Date: 2014-09-12 ; Times: 1
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 1
+	Date: 2014-09-17 ; Times: 1
+	Date: 2014-09-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "PreservedSpecimen genus:zoothera" ; Times: 1
+	Query: "spizella mappable:1" ; Times: 1
+	Query: "PreservedSpecimen genus:turdus" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "(cyanocompsa) tissue:1" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "ptilinopus type:specimen tissue:1" ; Times: 1
+	Query: "Falconidae type:specimen AND (NOT sparverius) year >= 1940 year <= 2014 mappable:1" ; Times: 1
+	Query: "Thamnophilus" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1960 year <= 2014" ; Times: 1
+	Query: "Gavia immer type:specimen" ; Times: 1
+	Query: "pipra tissue:1" ; Times: 1
+	Query: "tissue genus:Turdus class:Aves institutioncode:KU" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "catharus fuscescens tissue:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 592
+Total number of records retrieved from searches: 5639
+Number of download events that retrieved data from the resource: 113
+Total number of records downloaded: 31160
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 592
+Total number of records retrieved from searches: 5639
+Number of download events that retrieved data from the resource: 133
+Total number of records downloaded: 33432
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
