@@ -1,0 +1,331 @@
+Report for Institution Code KU, Resource kubi_ornithology_tissue
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 268
+Number of records retrieved in searches: 1606
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 42
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 23
+	Country: Portugal ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 186
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 7
+	Date: 2015-02-02 ; Times: 14
+	Date: 2015-02-03 ; Times: 10
+	Date: 2015-02-04 ; Times: 8
+	Date: 2015-02-05 ; Times: 12
+	Date: 2015-02-06 ; Times: 16
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 7
+	Date: 2015-02-10 ; Times: 7
+	Date: 2015-02-11 ; Times: 5
+	Date: 2015-02-12 ; Times: 23
+	Date: 2015-02-13 ; Times: 14
+	Date: 2015-02-14 ; Times: 18
+	Date: 2015-02-15 ; Times: 6
+	Date: 2015-02-16 ; Times: 13
+	Date: 2015-02-17 ; Times: 10
+	Date: 2015-02-18 ; Times: 14
+	Date: 2015-02-19 ; Times: 19
+	Date: 2015-02-20 ; Times: 24
+	Date: 2015-02-21 ; Times: 2
+	Date: 2015-02-22 ; Times: 5
+	Date: 2015-02-23 ; Times: 7
+	Date: 2015-02-24 ; Times: 8
+	Date: 2015-02-25 ; Times: 5
+	Date: 2015-02-26 ; Times: 5
+	Date: 2015-02-27 ; Times: 5
+	Date: 2015-02-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Dromococcyx tissue:1" ; Times: 1
+	Query: "alectrurus" ; Times: 2
+	Query: "Chaetura pelagica mappable:1" ; Times: 3
+	Query: "peucaea ruficauda" ; Times: 2
+	Query: "type:specimen catalognumber:28050 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:melanocyaneus genus:Cyanocorax tissue:1" ; Times: 1
+	Query: "genus:Rostrhamus tissue:1" ; Times: 1
+	Query: "anthus lutescens tissue:1" ; Times: 1
+	Query: "urocissa tissue:1" ; Times: 1
+	Query: "llano grande" ; Times: 1
+	Query: "Synallaxis albescens" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 1
+	Query: "Stigmatura budytoides" ; Times: 5
+	Query: "Salpornis" ; Times: 1
+	Query: "Microdynamis type:specimen tissue:1" ; Times: 1
+	Query: "tring" ; Times: 1
+	Query: "xenopipo tissue:1" ; Times: 1
+	Query: "Heliodoxa xanthogonys" ; Times: 2
+	Query: "Regina tissue:1" ; Times: 2
+	Query: "Branta bernicla" ; Times: 1
+	Query: "Rhipidura albicollis KU 10230" ; Times: 1
+	Query: "Tyto tenebricosa" ; Times: 1
+	Query: "neoctantes niger" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "Ninox strenua tissue:1" ; Times: 1
+	Query: "Contopus cinereus type:specimen" ; Times: 1
+	Query: "cissopis" ; Times: 1
+	Query: "Megascops tissue:1" ; Times: 3
+	Query: "Ianthocincla chinensis KU" ; Times: 1
+	Query: "Otus fuliginosus tissue:1" ; Times: 1
+	Query: "specificepithet:nigrescens genus:Pitohui institutioncode:ku" ; Times: 2
+	Query: "megapodius" ; Times: 2
+	Query: "ardea alba tissue:1" ; Times: 1
+	Query: "dendrocitta cinerascens" ; Times: 2
+	Query: "culicicapa tissue:1" ; Times: 2
+	Query: "Otus mantananensis tissue:1" ; Times: 1
+	Query: "Otus spilocephalus tissue:1" ; Times: 2
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: ""malacocincla malaccensis"" ; Times: 2
+	Query: "Uroglaux dimorpha tissue:1" ; Times: 2
+	Query: "columbina minuta] tissue" ; Times: 1
+	Query: "anthus lutescens tissue" ; Times: 1
+	Query: "Sclerurus type:specimen" ; Times: 1
+	Query: "Petroica multicolor tissue:1" ; Times: 1
+	Query: "chiroxiphia linearis tissue:1" ; Times: 1
+	Query: ""Turdus Albicollis" tissue:1" ; Times: 1
+	Query: "Lophornis pavoninus" ; Times: 1
+	Query: "Celeus undatus" ; Times: 4
+	Query: "Blythipicus pyrrhotis KU 6759" ; Times: 1
+	Query: "Pomatorhinus ruficollis KU 15144" ; Times: 1
+	Query: "ortalis leucogastra" ; Times: 2
+	Query: "veniliornis kirkii tissue:1" ; Times: 1
+	Query: "Hypothymis azurea KU" ; Times: 1
+	Query: "Neomorphus tissue:1" ; Times: 2
+	Query: "Strix rufipes tissue:1" ; Times: 1
+	Query: "Alophoixus pallidus KU" ; Times: 1
+	Query: "specificepithet:cucullata genus:Carduelis institutioncode:KU" ; Times: 1
+	Query: "ku ortalis" ; Times: 2
+	Query: "Strix rufipes" ; Times: 1
+	Query: "Tapera tissue:1" ; Times: 2
+	Query: "Prosthemadera novaeseelandiae" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "Ninox variegata tissue:1" ; Times: 1
+	Query: "ninox tissue:1" ; Times: 1
+	Query: "Caprimulgus europaeus" ; Times: 1
+	Query: "KU 121677" ; Times: 1
+	Query: "catalognumber:21655 institutioncode:ku" ; Times: 2
+	Query: "pitta sordida tissue:1" ; Times: 1
+	Query: "Myzomela melanocephala tissue:1" ; Times: 1
+	Query: "Piaya melanogaster" ; Times: 1
+	Query: "Dendrocitta formosae KU" ; Times: 1
+	Query: "genus:Urocissa tissue:1" ; Times: 1
+	Query: "catalognumber:12706 institutioncode:KU tissue:1" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Theristicus caudatus" ; Times: 1
+	Query: "institutioncode:KU tissue:1" ; Times: 1
+	Query: "Ammodramus type:specimen year >= 1950 year <= 2015 tissue:1" ; Times: 1
+	Query: "tachyphonus phoenicius KU tissue:1" ; Times: 1
+	Query: "thamnomanes caesius" ; Times: 1
+	Query: "bubalornis" ; Times: 1
+	Query: "philydor mappable:1 tissue:1" ; Times: 1
+	Query: ""turdus albicollis" (tissue) mappable:1 tissue:1" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "Cyanocorax violaceus" ; Times: 1
+	Query: "veniliornis kirkii" ; Times: 2
+	Query: ""aramides cajanea" (tissue) tissue:1" ; Times: 1
+	Query: "anthus bogotensis tissue:1" ; Times: 3
+	Query: "Erpornis zantholeuca KU" ; Times: 1
+	Query: "malacocincla malaccensis" ; Times: 4
+	Query: ""Troglodytes musculus" (tissue) tissue:1" ; Times: 1
+	Query: "ku piranga year >= 1980 year <= 2010" ; Times: 2
+	Query: "Parkesia motacilla" ; Times: 4
+	Query: "Ninox theomacha tissue:1" ; Times: 1
+	Query: "parus elegans" ; Times: 1
+	Query: "Pyriglena" ; Times: 1
+	Query: "Chlorophonia type:specimen (tissue) tissue:1" ; Times: 1
+	Query: "specificepithet:yncas genus:cyanocorax tissue:1" ; Times: 1
+	Query: "bubo scandiacus tissue:1" ; Times: 1
+	Query: "dendronanthus tissue:1" ; Times: 3
+	Query: "PYRRHOCORAX tissue:1" ; Times: 1
+	Query: "Streptoprocne tissue:1" ; Times: 1
+	Query: "ortalis leucogastra ku" ; Times: 1
+	Query: "Glaucidium hardyi tissue:1" ; Times: 1
+	Query: "Aethopyga christinae KU" ; Times: 1
+	Query: "pulsatrix melanota" ; Times: 1
+	Query: "Hypothymis azurea KU 20165" ; Times: 1
+	Query: "genus:Strix AND (NOT "United States") tissue:1" ; Times: 1
+	Query: "Uta tissue:1" ; Times: 1
+	Query: "Megascops choliba" ; Times: 2
+	Query: "Lurocalis semitorquatus" ; Times: 1
+	Query: "Megalaima haemacephala" ; Times: 3
+	Query: "tamarind" ; Times: 1
+	Query: "Myrmorchilus" ; Times: 3
+	Query: "Dicaeum tristrami tissue:1" ; Times: 1
+	Query: "fregata magnificens" ; Times: 5
+	Query: "country:"Mexico" specificepithet:aglaiae genus:Pachyramphus tissue:1" ; Times: 1
+	Query: "xenopipo atronitens KU tissue:1" ; Times: 1
+	Query: "Harpactes erythrocephalus KU" ; Times: 1
+	Query: "picidae tissue:1" ; Times: 1
+	Query: "Otus megalotis tissue:1" ; Times: 1
+	Query: "pulsatrix" ; Times: 1
+	Query: "anthus hellmayri tissue" ; Times: 1
+	Query: "napothera crassa" ; Times: 1
+	Query: "tiaris obscurus" ; Times: 1
+	Query: "Branta bernicla tissue:1" ; Times: 1
+	Query: "cissa tissue:1" ; Times: 1
+	Query: "KU 10003" ; Times: 1
+	Query: "Ninox philippensis tissue:1" ; Times: 1
+	Query: "Myrmotherula longipennis" ; Times: 1
+	Query: "pitohui nigrescens" ; Times: 1
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "Grallaria guatimalensis" ; Times: 1
+	Query: "dendronanthus" ; Times: 1
+	Query: "Cyanocorax yncas tissue:1" ; Times: 1
+	Query: "Myiothlypis fulvicauda type:specimen" ; Times: 1
+	Query: "Myiornis" ; Times: 1
+	Query: "Glaucidium nanum tissue:1" ; Times: 1
+	Query: "genus:Strix AND (NOT "United States" NOT "USA") tissue:1" ; Times: 1
+	Query: "Melospiza type:specimen year >= 1950 year <= 2015 tissue:1" ; Times: 1
+	Query: "Hemixos flavala" ; Times: 1
+	Query: "NHM Monasa type:specimen genus:Monasa" ; Times: 1
+	Query: "Alcedo atthis tissue:1" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "genus:Gyps tissue:1" ; Times: 1
+	Query: "Megascops atricapillus tissue:1" ; Times: 1
+	Query: "geothlypis aequinoctialis tissue" ; Times: 1
+	Query: "geococcyx californianus mappable:1" ; Times: 3
+	Query: "genus:Pachyramphus tissue:1" ; Times: 2
+	Query: "Nothura" ; Times: 2
+	Query: "KU 21677" ; Times: 2
+	Query: "Blythipicus pyrrhotis KU" ; Times: 1
+	Query: "heliodoxa aurescens" ; Times: 1
+	Query: "Garrulax maesi KU" ; Times: 3
+	Query: "KU 6662" ; Times: 2
+	Query: "empidonax traillii year >= 1990 year <= 2013 mappable:1" ; Times: 1
+	Query: "Thamnophilus palliatus mappable:1 tissue:1" ; Times: 1
+	Query: "myrmeciza KU" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT united NOT isa) tissue:1" ; Times: 1
+	Query: "Aegolius tissue:1" ; Times: 1
+	Query: "Geococcyx californianus mappable:1" ; Times: 3
+	Query: "KU 24347" ; Times: 1
+	Query: "Hypothymis azurea KU 12746" ; Times: 1
+	Query: "Otus elegans tissue:1" ; Times: 2
+	Query: "pipreola intermedia country:"Peru"" ; Times: 1
+	Query: "chaetura pelagica mappable:1" ; Times: 5
+	Query: "specificepithet:formosa genus:calocitta tissue:1" ; Times: 1
+	Query: "specificepithet:chrysops genus:cyanocorax tissue:1" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 2
+	Query: "catalognumber:3684 institutioncode:KU tissue:1" ; Times: 1
+	Query: "leptodon cayanensis" ; Times: 2
+	Query: "ku birdstissue 9318" ; Times: 1
+	Query: "Tangara cyanicollis" ; Times: 1
+	Query: "Geococcyx Californianus mappable:1" ; Times: 1
+	Query: "ku birdstissue 9315" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "ku ninox" ; Times: 1
+	Query: "specificepithet:urubitinga genus:Buteogallus tissue:1" ; Times: 1
+	Query: "Turdus assimilis type:specimen AND (NOT Mexico)" ; Times: 1
+	Query: "melophus lathami" ; Times: 1
+	Query: "Orthotomus sutorius KU" ; Times: 1
+	Query: "type:specimen genus:Monasa" ; Times: 2
+	Query: "KU "sublegatus" (tissue) tissue:1" ; Times: 1
+	Query: "Dendrocitta tissue:1" ; Times: 1
+	Query: "Hierococcyx type:specimen tissue:1" ; Times: 1
+	Query: "Otus rufescens tissue:1" ; Times: 1
+	Query: "catharus" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "anthus chacoensis tissue" ; Times: 1
+	Query: "specificepithet:ruticilla genus:Setophaga year >= 1995 year <= 2015 tissue:1" ; Times: 1
+	Query: "myrmeciza tissue:1" ; Times: 1
+	Query: "Peucaea ruficauda" ; Times: 1
+	Query: "anthus hellmayri tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:ridgelyi genus:grallaria" ; Times: 1
+	Query: "Hemixos flavala KU" ; Times: 1
+	Query: "Myrmotherula behni" ; Times: 1
+	Query: "Otus scops tissue:1" ; Times: 1
+	Query: "Nectarinia jugularis KU" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT united) tissue:1" ; Times: 1
+	Query: "Otus longicornis tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 326 download events in this period)
+Total number of records downloaded: 1747 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1655
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-04 ; Times: 4
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-16 ; Times: 2
+	Date: 2015-02-17 ; Times: 2
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 1
+	Date: 2015-02-25 ; Times: 3
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "Melospiza type:specimen year >= 1950 year <= 2015 tissue:1" ; Times: 1
+	Query: "cyanocorax tissue:1" ; Times: 1
+	Query: ""Polioptila plumbea" (tissue) tissue:1" ; Times: 1
+	Query: "Monasa year <= 2015" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "Dryocopus pileatus mappable:1" ; Times: 1
+	Query: "stiphrornis" ; Times: 1
+	Query: "genus:Ducula" ; Times: 1
+	Query: "peucaea ruficauda" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "genus:Cyanocorax tissue:1" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 2
+	Query: "Ammodramus type:specimen year >= 1950 year <= 2015 tissue:1" ; Times: 1
+	Query: "Tephrodornis gularis" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Dysithamnus mentalis mappable:1 tissue:1" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "malacocincla malaccensis" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1252
+Total number of records retrieved from searches: 10167
+Number of download events that retrieved data from the resource: 71
+Total number of records downloaded: 6733
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1532
+Total number of records retrieved from searches: 12607
+Number of download events that retrieved data from the resource: 238
+Total number of records downloaded: 43493
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
