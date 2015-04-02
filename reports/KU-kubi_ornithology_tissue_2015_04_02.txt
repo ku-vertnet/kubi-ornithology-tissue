@@ -1,0 +1,339 @@
+Report for Institution Code KU, Resource kubi_ornithology_tissue
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 253
+Number of records retrieved in searches: 2273
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Brazil ; Times: 32
+	Country: Cyprus ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: France ; Times: 3
+	Country: Germany ; Times: 7
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Sweden ; Times: 5
+	Country: Thailand ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 182
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 13
+	Date: 2015-03-04 ; Times: 3
+	Date: 2015-03-05 ; Times: 16
+	Date: 2015-03-06 ; Times: 19
+	Date: 2015-03-07 ; Times: 10
+	Date: 2015-03-08 ; Times: 4
+	Date: 2015-03-09 ; Times: 6
+	Date: 2015-03-10 ; Times: 28
+	Date: 2015-03-11 ; Times: 12
+	Date: 2015-03-12 ; Times: 14
+	Date: 2015-03-13 ; Times: 18
+	Date: 2015-03-15 ; Times: 3
+	Date: 2015-03-16 ; Times: 7
+	Date: 2015-03-17 ; Times: 12
+	Date: 2015-03-18 ; Times: 10
+	Date: 2015-03-19 ; Times: 5
+	Date: 2015-03-20 ; Times: 17
+	Date: 2015-03-21 ; Times: 1
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-23 ; Times: 10
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 8
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-27 ; Times: 19
+	Date: 2015-03-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cyanea genus:Pitta" ; Times: 1
+	Query: "lamprotornis caudatus" ; Times: 1
+	Query: "Lanius excubitor tissue:1" ; Times: 1
+	Query: "peucaea ruficauda" ; Times: 1
+	Query: ""Ficedula narcissina"" ; Times: 2
+	Query: "rossii institutioncode:KU" ; Times: 1
+	Query: "catalognumber:3870 institutioncode:ku" ; Times: 1
+	Query: "Psilorhinus institutioncode:KU tissue:1" ; Times: 1
+	Query: "Garrulus institutioncode:KU tissue:1" ; Times: 1
+	Query: "Eophona personata tissue:1" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "Podoces institutioncode:KU tissue:1" ; Times: 1
+	Query: "cyanocorax institutioncode:KU tissue:1" ; Times: 1
+	Query: "Conopophaga lineata" ; Times: 1
+	Query: "dendrocitta institutioncode:ku tissue:1" ; Times: 1
+	Query: "camptostoma obsoletum tissue:1" ; Times: 1
+	Query: "country:"Solomon" institutioncode:KU" ; Times: 1
+	Query: "institutioncode:ku Poicephalus" ; Times: 6
+	Query: "garrulus glandarius institutioncode:KU tissue:1" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "erythrura trichroa tissue:1" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Myzomela (tissue)" ; Times: 1
+	Query: "meiglyptes" ; Times: 2
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "Neomorphus" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Turdus tissue:1" ; Times: 1
+	Query: "Tachycineta albilinea tissue:1" ; Times: 1
+	Query: "dendrocitta formosae tissue:1" ; Times: 1
+	Query: "pica institutioncode:KU tissue:1" ; Times: 1
+	Query: "Dicaeum tristrami" ; Times: 1
+	Query: "Todiramphus leucopygius year >= 1990 year <= 2015" ; Times: 1
+	Query: "Garrulus glandarius institutioncode:KU tissue:1" ; Times: 1
+	Query: "plectrophenax nivalis" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "nucifraga caryocatactes institutioncode:KU tissue:1" ; Times: 2
+	Query: "clangula" ; Times: 1
+	Query: "Anthus spinoletta tissue:1" ; Times: 1
+	Query: "Terpsiphone tissue:1" ; Times: 6
+	Query: "specificepithet:pulchella genus:Myzomela (tissue)" ; Times: 1
+	Query: "Megapodius eremita" ; Times: 1
+	Query: "catalognumber:2165 institutioncode:ku" ; Times: 1
+	Query: "formicivora grisea tissue" ; Times: 1
+	Query: "schistochlamys melanopis tissue" ; Times: 1
+	Query: "astrapia year >= 1990 year <= 2015" ; Times: 1
+	Query: "specificepithet:migratorius genus:turdus year >= 1996 year <= 2015" ; Times: 1
+	Query: "Rhipidura cyaniceps" ; Times: 4
+	Query: "culicicapa ceylonensis type:specimen" ; Times: 1
+	Query: "Fulica tissue:1" ; Times: 1
+	Query: "Ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Pipraeidea bonariensis tissue:1" ; Times: 1
+	Query: "psilorhinus institutioncode:KU tissue:1" ; Times: 1
+	Query: "Tangara nigroviridis type:specimen (tissue)" ; Times: 1
+	Query: "Odontophorus balliviani" ; Times: 1
+	Query: "pipra pipra country:"peru" tissue:1" ; Times: 1
+	Query: "Megapodius eremita year >= 1980 year <= 2015" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "Falco mexicanus" ; Times: 1
+	Query: "pulsatrix institutioncode:ku" ; Times: 1
+	Query: "Lonchura cucullata specificepithet:cucullata genus:Lonchura tissue:1" ; Times: 1
+	Query: "pica pica institutioncode:KU tissue:1" ; Times: 2
+	Query: "Lanius tigrinus tissue:1" ; Times: 1
+	Query: "catalognumber:3871 institutioncode:ku" ; Times: 1
+	Query: "urocissa erythrorhyncha institutioncode:KU tissue:1" ; Times: 1
+	Query: "KU 97512" ; Times: 1
+	Query: "dendrocitta formosae institutioncode:KU tissue:1" ; Times: 1
+	Query: "Stigmatura" ; Times: 1
+	Query: "catalognumber:4998 institutioncode:ku" ; Times: 1
+	Query: "Myrmorchilus" ; Times: 2
+	Query: "KU 97519" ; Times: 1
+	Query: "odontophorus year >= 1980 year <= 2015" ; Times: 1
+	Query: "specificepithet:smyrnensis genus:Halcyon institutioncode:ku" ; Times: 1
+	Query: "Pulsatrix institutioncode:KU" ; Times: 8
+	Query: "molothrus institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:28909 institutioncode:KU" ; Times: 1
+	Query: "cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Trogon rufus type:specimen" ; Times: 1
+	Query: "chiroxiphia boliviana" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen (Skin) mappable:1" ; Times: 1
+	Query: "geothlypis poliocephala" ; Times: 1
+	Query: "Pica institutioncode:KU tissue:1" ; Times: 1
+	Query: "specificepithet:chrysops genus:cyanocorax tissue:1" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Cacomantis variolosus institutioncode:KU" ; Times: 1
+	Query: "suthora beaulieui" ; Times: 1
+	Query: "cyanolyca tissue:1" ; Times: 1
+	Query: "specificepithet:yncas genus:cyanocorax tissue:1" ; Times: 1
+	Query: "institutioncode:KU (spread wing)" ; Times: 1
+	Query: "KU 97505" ; Times: 1
+	Query: "Pyrrhocorax tissue:1" ; Times: 2
+	Query: "pyriglena leuconota" ; Times: 1
+	Query: "colinus nigrogularis" ; Times: 1
+	Query: "athene cunicularia tissue:1" ; Times: 2
+	Query: "Blythipicus tissue:1" ; Times: 1
+	Query: "urocissa flavirostris institutioncode:KU tissue:1" ; Times: 1
+	Query: "socorro new mexico" ; Times: 1
+	Query: "parotia wahnesi" ; Times: 7
+	Query: "bird skin sarawak" ; Times: 1
+	Query: "Pulsatrix" ; Times: 1
+	Query: "tricholestes" ; Times: 1
+	Query: "astrapia institutioncode:KU year >= 1990 year <= 2015" ; Times: 1
+	Query: "Paradigalla institutioncode:KU year >= 1990 year <= 2015" ; Times: 1
+	Query: "Myrmeciza hemimelaena" ; Times: 1
+	Query: "colinus country:"mexico" year >= 1970 year <= 2015" ; Times: 1
+	Query: "aethopyga institutioncode:KU tissue:1" ; Times: 1
+	Query: "specificepithet:chrysops genus:cyanocorax" ; Times: 1
+	Query: "type:specimen specificepithet:superbus genus:Lamprotornis" ; Times: 1
+	Query: "genus:Fregata tissue:1" ; Times: 2
+	Query: "dendrocitta frontalis tissue:1" ; Times: 1
+	Query: "catalognumber:21655 institutioncode:KU" ; Times: 1
+	Query: "Knipolegus tissue:1" ; Times: 2
+	Query: "pulsatrix" ; Times: 4
+	Query: "passerina caerulea" ; Times: 1
+	Query: "type:specimen specificepithet:nigroviridis genus:Tangara year >= 1990 year <= 2015" ; Times: 1
+	Query: "Birds pectoralis KU 11" ; Times: 1
+	Query: "specificepithet:fossii genus:caprimulgus" ; Times: 1
+	Query: "dahli AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Parotia institutioncode:KU year >= 1990 year <= 2015" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Lanius excubitor (tissue)" ; Times: 1
+	Query: "paradoxornis nipalensis" ; Times: 1
+	Query: "Birds pectoralis KU 11125" ; Times: 1
+	Query: "salpornis" ; Times: 1
+	Query: "Picumnus aurifrons tissue:1" ; Times: 1
+	Query: "petronia institutioncode:KU tissue:1" ; Times: 1
+	Query: "calocitta institutioncode:KU tissue:1" ; Times: 1
+	Query: "emberizoides institutioncode:KU tissue:1" ; Times: 1
+	Query: "ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 5
+	Query: "Strix varia" ; Times: 1
+	Query: "Myiothlypis fulvicauda type:specimen" ; Times: 1
+	Query: "country:"El Salvador" specificepithet:ciris genus:Passerina" ; Times: 1
+	Query: "pytilia institutioncode:KU tissue:1" ; Times: 1
+	Query: ""Falco deiroleucus" type:specimen" ; Times: 1
+	Query: "anthus spinoletta year >= 2000 tissue:1" ; Times: 1
+	Query: "cyanocitta cristata tissue:1" ; Times: 1
+	Query: "rallus longirostris" ; Times: 2
+	Query: "specificepithet:sclateri genus:Myzomela (tissue)" ; Times: 1
+	Query: "Trogon melanocephalus" ; Times: 2
+	Query: "Myrmotherula sunensis" ; Times: 1
+	Query: "cyanocorax violaceus" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "dendrocitta cinerascens tissue:1" ; Times: 1
+	Query: "Charadrius melodus type:specimen tissue:1" ; Times: 2
+	Query: "pipra pipra country:"costa rica" tissue:1" ; Times: 1
+	Query: "thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "Epimachus institutioncode:KU year >= 1990 year <= 2015" ; Times: 1
+	Query: ""grallaria guatimalensis" type:specimen" ; Times: 1
+	Query: "vidua institutioncode:KU (tissue) tissue:1" ; Times: 1
+	Query: "Ciccaba" ; Times: 1
+	Query: "Aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "KU 97487" ; Times: 1
+	Query: "tangara institutioncode:KU tissue:1" ; Times: 2
+	Query: "manacus manacus tissue:1" ; Times: 1
+	Query: "micropsitta finschii" ; Times: 1
+	Query: "Oxyruncus cristatus" ; Times: 1
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "Picumnus tissue:1" ; Times: 1
+	Query: "Stigmatura budytoides" ; Times: 1
+	Query: "Schistocichla saturata" ; Times: 1
+	Query: "corvus institutioncode:KU tissue:1" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "ptilinopus solomonensis year >= 1990 year <= 2015" ; Times: 1
+	Query: "aquila tissue:1" ; Times: 1
+	Query: "Ptilinopus solomonensis year >= 1980 year <= 2015" ; Times: 1
+	Query: "chrysocolaptes tissue:1" ; Times: 1
+	Query: "myiopsitta" ; Times: 1
+	Query: "sporophila leucoptera" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "francolinus bicalcaratus year >= 1990 year <= 2015" ; Times: 1
+	Query: "dixiphia pipra country:"peru" tissue:1" ; Times: 1
+	Query: "Aplonis metallica year >= 1980 year <= 2015" ; Times: 1
+	Query: "tissue genus:Turdus class:Aves institutioncode:KU" ; Times: 1
+	Query: "Trogon rufus" ; Times: 2
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "spizixos canifrons tissue:1" ; Times: 1
+	Query: "Heliodoxa xanthogonys type:specimen institutioncode:KU" ; Times: 1
+	Query: "genus:chamaeza tissue:1" ; Times: 1
+	Query: "Odontophorus gujanensis" ; Times: 1
+	Query: "cyanocitta institutioncode:ku (tissue) tissue:1" ; Times: 1
+	Query: "type:specimen country:"guyana" institutioncode:KU year >= 2014 year <= 2014" ; Times: 2
+	Query: "Pycnonotus xanthorrhous tissue:1" ; Times: 1
+	Query: "oxyura jamaicensis" ; Times: 1
+	Query: "specificepithet:pammelaena genus:Myzomela (tissue)" ; Times: 1
+	Query: "type:specimen specificepithet:sibilator genus:Sirystes" ; Times: 2
+	Query: "pyrrhocorax institutioncode:KU tissue:1" ; Times: 1
+	Query: "KU 97497" ; Times: 1
+	Query: "nucifraga institutioncode:KU tissue:1" ; Times: 1
+	Query: "KU 97495" ; Times: 1
+	Query: "KU 97493" ; Times: 1
+	Query: "Thlypopsis ornata" ; Times: 2
+	Query: "francolinus bicalcaratus year >= 1950 year <= 2015" ; Times: 2
+	Query: "chlorocharis" ; Times: 1
+	Query: "ku 121341" ; Times: 1
+	Query: "garrulus institutioncode:KU tissue:1" ; Times: 2
+	Query: "KU 97498" ; Times: 1
+	Query: "podoces institutioncode:KU tissue:1" ; Times: 1
+	Query: "cyanocorax yncas tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 298 download events in this period)
+Total number of records downloaded: 4279 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3343
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 9
+	Country: Cyprus ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 5
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 3
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-22 ; Times: 2
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 4
+	Date: 2015-03-27 ; Times: 3
+	Date: 2015-03-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptilinopus superbus year >= 1980 year <= 2015" ; Times: 1
+	Query: "specificepithet:cruentata genus:Myzomela" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "amaurospiza concolor" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "country:"Solomon" institutioncode:KU" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1505
+Total number of records retrieved from searches: 12440
+Number of download events that retrieved data from the resource: 102
+Total number of records downloaded: 11012
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1785
+Total number of records retrieved from searches: 14880
+Number of download events that retrieved data from the resource: 269
+Total number of records downloaded: 47772
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
