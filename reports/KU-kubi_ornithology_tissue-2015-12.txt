@@ -1,0 +1,315 @@
+Report for Institution Code KU, Resource kubi_ornithology_tissue
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 259
+Number of records retrieved in searches: 1957
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 32
+	Country: Canada ; Times: 42
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 19
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 142
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Denmark ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 10
+	Date: 2015-12-08 ; Times: 13
+	Date: 2015-12-03 ; Times: 10
+	Date: 2015-12-02 ; Times: 12
+	Date: 2015-12-01 ; Times: 6
+	Date: 2015-12-07 ; Times: 24
+	Date: 2015-12-06 ; Times: 15
+	Date: 2015-12-05 ; Times: 10
+	Date: 2015-12-04 ; Times: 28
+	Date: 2015-12-21 ; Times: 4
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-23 ; Times: 10
+	Date: 2015-12-22 ; Times: 3
+	Date: 2015-12-25 ; Times: 4
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-26 ; Times: 2
+	Date: 2015-12-29 ; Times: 22
+	Date: 2015-12-28 ; Times: 4
+	Date: 2015-12-31 ; Times: 33
+	Date: 2015-12-14 ; Times: 6
+	Date: 2015-12-15 ; Times: 8
+	Date: 2015-12-16 ; Times: 9
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-10 ; Times: 5
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-12 ; Times: 5
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-18 ; Times: 6
+	Date: 2015-12-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Iole tissue:1" ; Times: 1
+	Query: "Calypte type:specimen mappable:1" ; Times: 1
+	Query: "gyps fulvus" ; Times: 1
+	Query: "type:specimen specificepithet:lugubris genus:Celeus" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "catreus wallichii" ; Times: 3
+	Query: "Selasphorus" ; Times: 1
+	Query: "Terpsiphone (Terpsiphone ) AND (Terpsiphone ) tissue:1" ; Times: 1
+	Query: "Leptopogon taczanowskii type:specimen" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "type:specimen family:caprimulgidae class:Aves stateprovince:&#34;Concepcion&#34; country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "Pycnonotus aurigaster tissue:1" ; Times: 1
+	Query: "trochocercus year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "melanopareia" ; Times: 2
+	Query: "Parotia lawesii type:specimen preparations:skin AND (NOT CLO)" ; Times: 1
+	Query: "specificepithet:megarhyncha genus:Syma tissue:1" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "Monarcha barbatus tissue:1" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 2
+	Query: "type:specimen genus:Brotogeris order:Psittaciformes (chiriri)" ; Times: 1
+	Query: "Zosterops ugiensis tissue:1" ; Times: 1
+	Query: "type:specimen family:strigidae class:Aves stateprovince:&#34;Concepcion&#34; country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "Pycnonotus tricolor tissue:1" ; Times: 1
+	Query: "Cardellina canadensis" ; Times: 4
+	Query: "ptilorrhoa tissue:1" ; Times: 2
+	Query: "Pipra filicauda" ; Times: 8
+	Query: "dendrocitta cinerascens" ; Times: 1
+	Query: "110949" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Melanerpes erythrocephalus" ; Times: 1
+	Query: "genus:Smithornis institutioncode:KU tissue:1" ; Times: 1
+	Query: "specificepithet:rufipennis family:Cuculidae" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "catalognumber:5529 institutioncode:KU" ; Times: 1
+	Query: "type:specimen genus:strix class:Aves country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "specificepithet:inopinatum family:Phasianidae preparations:skin" ; Times: 1
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "tachuris" ; Times: 1
+	Query: "type:specimen genus:Brotogeris order:Psittaciformes institutioncode:KU" ; Times: 1
+	Query: "collocalia year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "grallaria rufula" ; Times: 1
+	Query: "KU BirdsTissue 6174" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 2
+	Query: "specificepithet:congensis family:Phasianidae preparations:skin" ; Times: 1
+	Query: "urocissa flavirostris" ; Times: 1
+	Query: "Lophura bulweri preparations:skin" ; Times: 1
+	Query: "Tapera tissue:1" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "oxyruncus tissue:1" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 1
+	Query: "Spizixos canifrons" ; Times: 1
+	Query: "Leptopogon superciliaris type:specimen" ; Times: 1
+	Query: "pulsatrix tissue:1" ; Times: 3
+	Query: "type:specimen specificepithet:picumnus genus:Dendrocolaptes" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:PItta institutioncode:KU tissue:1" ; Times: 1
+	Query: "Erpornis 13848" ; Times: 2
+	Query: "Hypsipetes tissue:1" ; Times: 1
+	Query: "catalognumber:15912 institutioncode:KU" ; Times: 2
+	Query: "Tyto alba" ; Times: 1
+	Query: "cardellina pusilla" ; Times: 1
+	Query: "specificepithet:viridis family:Cuculidae" ; Times: 1
+	Query: "Astrapia stephaniae preparations:skin" ; Times: 1
+	Query: "Monarcha cinerascens" ; Times: 1
+	Query: "Phalaropus lobatus" ; Times: 2
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Thamnophilus ruficapillus type:specimen" ; Times: 1
+	Query: "zenaida asiatica institutioncode:KU" ; Times: 1
+	Query: "genus:Buteo institutioncode:KU tissue:1" ; Times: 2
+	Query: "Dromococcyx genus:Dromococcyx tissue:1" ; Times: 1
+	Query: "Threskiornis spinicollis preparations:skin" ; Times: 1
+	Query: "Pteridophora alberti preparations:skin" ; Times: 1
+	Query: "Chordeiles minor" ; Times: 1
+	Query: "Epimachus meyeri preparations:skin" ; Times: 1
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 2
+	Query: "Nothoprocta cinerascens" ; Times: 2
+	Query: "Xolmis country:&#34;Argentina&#34;" ; Times: 1
+	Query: "catalognumber:9126 institutioncode:KU" ; Times: 4
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "catalognumber:5285 institutioncode:KU" ; Times: 1
+	Query: "selasphorus" ; Times: 1
+	Query: "12522" ; Times: 2
+	Query: "catalognumber:15889 institutioncode:KU" ; Times: 1
+	Query: "Cambodia Aves type:specimen" ; Times: 1
+	Query: "Pyrrhomyias cinnamomeus type:specimen" ; Times: 1
+	Query: "ptilorrhoa" ; Times: 1
+	Query: "type:specimen family:columbidae class:Aves stateprovince:&#34;Concepcion&#34; country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "Monarcha castaneiventris tissue:1" ; Times: 1
+	Query: "aegypius tissue:1" ; Times: 1
+	Query: "chaetura institutioncode:KU tissue:1" ; Times: 1
+	Query: "Terpsiphone (atrocaudata) tissue:1" ; Times: 1
+	Query: "Syma torotoro" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "Cranioleuca institutioncode:KU" ; Times: 2
+	Query: "Cicinnurus regius preparations:skin" ; Times: 1
+	Query: "Parotia wahnesi preparations:skin" ; Times: 1
+	Query: "cissa" ; Times: 1
+	Query: "Aethopyga institutioncode:KU" ; Times: 12
+	Query: "type:specimen genus:aratinga order:Psittaciformes (nana) institutioncode:KU tissue:1" ; Times: 1
+	Query: "Paradigalla brevicauda preparations:skin" ; Times: 1
+	Query: "type:specimen genus:Andigena class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "Astrapia rothschildi preparations:skin" ; Times: 1
+	Query: "chlorocichla tissue:1" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "Arremon brunneinucha type:specimen" ; Times: 1
+	Query: "catalognumber:9170 institutioncode:KU" ; Times: 1
+	Query: "Myioborus melanocephalus type:specimen" ; Times: 1
+	Query: "catalognumber:9167 institutioncode:KU" ; Times: 2
+	Query: "Pycnonotus blanfordi tissue:1" ; Times: 1
+	Query: "cissa tissue:1" ; Times: 1
+	Query: "catalognumber:5323 institutioncode:KU" ; Times: 1
+	Query: "pulsatrix" ; Times: 4
+	Query: "Parotia carolae preparations:skin" ; Times: 1
+	Query: "Tauraco institutioncode:KU" ; Times: 1
+	Query: "Andigena hypoglauca" ; Times: 1
+	Query: "nothoprocta ornata" ; Times: 1
+	Query: "specificepithet:saturatus family:Cuculidae preparations:skin" ; Times: 1
+	Query: "catalognumber:9160 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "113810" ; Times: 1
+	Query: "Trogon massena" ; Times: 1
+	Query: "catalognumber:6642 institutioncode:KU" ; Times: 2
+	Query: "Ixos tissue:1" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "type:specimen genus:Nothoprocta class:Aves country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "Rhipidura rufifrons tissue:1" ; Times: 2
+	Query: "specificepithet:rabori genus:Napothera institutioncode:KU tissue:1" ; Times: 1
+	Query: "Sturnella magna" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "zonotrichia atricapilla" ; Times: 1
+	Query: "type:specimen genus:Pionus order:Psittaciformes (fuscus) year &gt;= 1968" ; Times: 1
+	Query: "genus:Tapera tissue:1" ; Times: 1
+	Query: "tachuris rubrigastra" ; Times: 1
+	Query: "dendrocitta cinerascens tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:meyeni genus:Tachycineta tissue:1" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 5
+	Query: "chrysocolaptes KU" ; Times: 1
+	Query: "Cambodia Aves type:specimen mappable:1" ; Times: 2
+	Query: "genus:Piprites institutioncode:KU tissue:1" ; Times: 1
+	Query: "Reno" ; Times: 1
+	Query: "turnix tissue:1" ; Times: 1
+	Query: "catalognumber:6653 institutioncode:KU" ; Times: 2
+	Query: "type:specimen specificepithet:leucorrhoa genus:Tachycineta tissue:1" ; Times: 1
+	Query: "Antrostomus vociferus" ; Times: 1
+	Query: "oxyruncus type:specimen" ; Times: 3
+	Query: "type:specimen genus:Brotogeris order:Psittaciformes (chiriri) institutioncode:KU" ; Times: 1
+	Query: "pachycephala tenebrosa" ; Times: 1
+	Query: "Loriculus philippensis" ; Times: 3
+	Query: "Calypte anna type:specimen" ; Times: 2
+	Query: "Pachycephala class:Aves institutioncode:KU tissue:1" ; Times: 1
+	Query: "Selasphorus type:specimen mappable:1" ; Times: 1
+	Query: "Paradisaea minor preparations:skin" ; Times: 1
+	Query: "Calypte" ; Times: 4
+	Query: "Ammodramus henslowii" ; Times: 4
+	Query: "type:specimen family:accipitridae class:Aves stateprovince:&#34;Concepcion&#34; country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:picumnus genus:Dendrocolaptes country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "nyctibius leucopterus" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "KU Pachycephala rufiventris" ; Times: 1
+	Query: "rhipidura fuliginosa tissue:1" ; Times: 1
+	Query: "aegypius" ; Times: 1
+	Query: "urocissa flavirostris tissue:1" ; Times: 1
+	Query: "type:specimen genus:Pionus order:Psittaciformes (fuscus)" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "genus:Phaenicophilus institutioncode:KU tissue:1" ; Times: 1
+	Query: "basileuterus culicivorus tissue:1" ; Times: 2
+	Query: "Philydor rufus" ; Times: 1
+	Query: "Erpornis" ; Times: 1
+	Query: "genus:Microligea institutioncode:KU tissue:1" ; Times: 1
+	Query: "Hierococcyx tissue:1" ; Times: 1
+	Query: "Parotia lawesii preparations:skin" ; Times: 1
+	Query: "pulsatrix institutioncode:KU" ; Times: 10
+	Query: "Calypte anna" ; Times: 1
+	Query: "pHRYGILUS UNICOLOR" ; Times: 1
+	Query: "Erpornis 10015" ; Times: 1
+	Query: "Micropsitta bruijnii" ; Times: 1
+	Query: "striata (setophaga OR dendroica)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 889 download events in this period)
+Total number of records downloaded: 1090
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 8
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 3
+	Country: United States ; Times: 28
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 6
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 3
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-04 ; Times: 7
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-23 ; Times: 7
+	Date: 2015-12-25 ; Times: 3
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Terpsiphone (atrocaudata) tissue:1" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "tachuris" ; Times: 1
+	Query: "lophotriccus pileatus type:specimen" ; Times: 1
+	Query: "Cranioleuca institutioncode:KU" ; Times: 1
+	Query: "Henicorhina leucophrys type:specimen" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Aethopyga institutioncode:KU" ; Times: 3
+	Query: "gyps fulvus" ; Times: 3
+	Query: "castor" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 1
+	Query: "Empidonax occidentalis tissue:1" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "Selasphorus type:specimen mappable:1" ; Times: 2
+	Query: "trochocercus year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "Arremon brunneinucha type:specimen" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Dromococcyx genus:Dromococcyx tissue:1" ; Times: 1
+	Query: "specificepithet:frantzii genus:Elaenia" ; Times: 1
+	Query: "Pyrrhomyias cinnamomeus type:specimen" ; Times: 1
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 1
+	Query: "KU coeligena" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "Leptopogon superciliaris type:specimen" ; Times: 1
+	Query: "terpsiphone year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "genus:Tapera tissue:1" ; Times: 1
+	Query: "monarcha year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "Hierococcyx tissue:1" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+
+
+End of report.
