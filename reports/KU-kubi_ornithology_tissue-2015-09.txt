@@ -1,0 +1,424 @@
+Report for Institution Code KU, Resource kubi_ornithology_tissue
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 516
+Number of records retrieved in searches: 7672
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: Turkey ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 9
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 8
+	Country: Sweden ; Times: 2
+	Country: Australia ; Times: 5
+	Country: French Guiana ; Times: 2
+	Country: Colombia ; Times: 9
+	Country: Denmark ; Times: 1
+	Country: Thailand ; Times: 6
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 421
+	Country: Philippines ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-22 ; Times: 24
+	Date: 2015-09-10 ; Times: 21
+	Date: 2015-09-11 ; Times: 13
+	Date: 2015-09-12 ; Times: 9
+	Date: 2015-09-13 ; Times: 6
+	Date: 2015-09-14 ; Times: 17
+	Date: 2015-09-15 ; Times: 15
+	Date: 2015-09-16 ; Times: 8
+	Date: 2015-09-17 ; Times: 26
+	Date: 2015-09-18 ; Times: 16
+	Date: 2015-09-19 ; Times: 7
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-02 ; Times: 22
+	Date: 2015-09-29 ; Times: 29
+	Date: 2015-09-07 ; Times: 25
+	Date: 2015-09-06 ; Times: 6
+	Date: 2015-09-05 ; Times: 11
+	Date: 2015-09-04 ; Times: 72
+	Date: 2015-09-03 ; Times: 22
+	Date: 2015-09-28 ; Times: 9
+	Date: 2015-09-01 ; Times: 39
+	Date: 2015-09-25 ; Times: 6
+	Date: 2015-09-24 ; Times: 29
+	Date: 2015-09-27 ; Times: 7
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-21 ; Times: 14
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 34
+	Date: 2015-09-08 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "pericrocotus flammeus" ; Times: 2
+	Query: "anthus lutescens ku" ; Times: 1
+	Query: "type:specimen genus:Rhipidura country:&#34;Solomon Islands&#34; mappable:1 tissue:1" ; Times: 1
+	Query: "phylloscopus griseolus" ; Times: 2
+	Query: "peucaea ruficauda" ; Times: 1
+	Query: "Adelbert Mountains institutioncode:KU" ; Times: 1
+	Query: "macropygia tissue:1" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "KU 15248" ; Times: 2
+	Query: "specificepithet:meyeni genus:Zosterops tissue:1" ; Times: 1
+	Query: "KU 30838" ; Times: 2
+	Query: "specificepithet:obscurus genus:Tiaris tissue:1" ; Times: 1
+	Query: "dendrocopos maculatus tissue:1" ; Times: 2
+	Query: "specificepithet:cyanotis genus:Tangara tissue:1" ; Times: 2
+	Query: "certhia institutioncode:KU" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "Tilmatura type:specimen tissue:1" ; Times: 1
+	Query: "country:&#34;Mexico&#34; genus:megascops tissue:1" ; Times: 1
+	Query: "catreus wallichii" ; Times: 1
+	Query: "Syma" ; Times: 1
+	Query: "guttatus" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "specificepithet:palpebrosus genus:Zosterops tissue:1" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 4
+	Query: "Crax alector alector tissue:1" ; Times: 1
+	Query: "catalognumber:18168 institutioncode:KU" ; Times: 1
+	Query: "KU 8510" ; Times: 1
+	Query: "Penelope superciliaris superciliaris tissue:1" ; Times: 1
+	Query: "chaetura" ; Times: 1
+	Query: "type:specimen genus:Calyptophilus tissue:1" ; Times: 1
+	Query: "Catharus dryas" ; Times: 2
+	Query: "Heliodoxa xanthogonys" ; Times: 2
+	Query: "Megaceryle" ; Times: 1
+	Query: "genus:euphonia tissue:1" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "genus:Erpornis tissue:1" ; Times: 2
+	Query: "pycnonotus jocosus" ; Times: 2
+	Query: "Dendrocitta cinerascens" ; Times: 1
+	Query: "phylloscopus schwarzi" ; Times: 3
+	Query: "catalognumber:19762 institutioncode:KU" ; Times: 1
+	Query: "county:&#34;meade&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "KU 21677" ; Times: 1
+	Query: "ploceus type:specimen institutioncode:ku" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 1
+	Query: "class:aves stateprovince:california year&gt;1976" ; Times: 7
+	Query: "KU 19397" ; Times: 2
+	Query: "ku diglossa baritula" ; Times: 2
+	Query: "meiglyptes tukki" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen year &gt;= 1931 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "Cracidae tissue:1" ; Times: 4
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "dendrocitta cinerascens" ; Times: 3
+	Query: "monarcha institutioncode:KU" ; Times: 1
+	Query: "Oxyruncus catalognumber:409 institutioncode:KU" ; Times: 1
+	Query: "rupicola tissue:1" ; Times: 1
+	Query: "Colinus virginianus type:specimen tissue:1" ; Times: 1
+	Query: "celeus (skel OR skeleton)" ; Times: 1
+	Query: "phylloscopus reguloides" ; Times: 2
+	Query: "colluricincla tenebrosa" ; Times: 1
+	Query: "musophagidae institutioncode:KU tissue:1" ; Times: 1
+	Query: "melanerpes pygmaeus tissue:1" ; Times: 1
+	Query: "passerina caerulea" ; Times: 2
+	Query: "Branta sandvicensis skel*" ; Times: 1
+	Query: "tilmatura tissue:1" ; Times: 1
+	Query: "Rawlins" ; Times: 1
+	Query: "Chaetocercus tissue:1" ; Times: 2
+	Query: "specificepithet:cooperi genus:megascops tissue:1" ; Times: 1
+	Query: "Ardea herodias skel*" ; Times: 1
+	Query: "KU 15300" ; Times: 2
+	Query: "Myrmothera" ; Times: 1
+	Query: "Colinus type:specimen" ; Times: 1
+	Query: "strix nebulosa" ; Times: 3
+	Query: "specificepithet:watsonii genus:megascops tissue:1" ; Times: 1
+	Query: "oxyruncus" ; Times: 2
+	Query: "Myrmotherula menetriesii type:specimen tissue:1" ; Times: 1
+	Query: "phylloscopus collybita" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 2
+	Query: "Porzana Carolina skel*" ; Times: 1
+	Query: "&#34;Criniger ndussumensis&#34; tissue:1" ; Times: 1
+	Query: "Dendrocopos leucotos" ; Times: 1
+	Query: "Colinus type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "type:specimen (ploceus) institutioncode:KU" ; Times: 1
+	Query: "Pseudobulweria macgillivrayi" ; Times: 1
+	Query: "phylloscopus maculipennis" ; Times: 1
+	Query: "Rhinomyias gularis" ; Times: 2
+	Query: "pulsatrix tissue:1" ; Times: 2
+	Query: "&#34;sylvietta virens&#34; tissue:1" ; Times: 1
+	Query: "Adelbert institutioncode:KU" ; Times: 17
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "Pipile pipile tissue:1" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "KU 25824" ; Times: 1
+	Query: "KU 97514" ; Times: 2
+	Query: "acrocephalus orientalis" ; Times: 10
+	Query: "geococcyx (skel OR skeleton)" ; Times: 2
+	Query: "Poecilodryas albispecularis institutioncode:KU" ; Times: 1
+	Query: "Ortalis leucogastra tissue:1" ; Times: 1
+	Query: "Crax alector tissue:1" ; Times: 1
+	Query: "adelbert institutioncode:KU" ; Times: 4
+	Query: "musophagidae tissue:1" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "&#34;sylvietta brachyura&#34; tissue:1" ; Times: 1
+	Query: "type:specimen country:&#34;peru&#34; specificepithet:viridis genus:pachyramphus" ; Times: 1
+	Query: "Micropsitta (skel OR skeleton)" ; Times: 1
+	Query: "genus:setophaga tissue:1" ; Times: 1
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "type:specimen genus:Rhipidura country:&#34;Solomon Islands&#34; tissue:1" ; Times: 1
+	Query: "Melanerpes striatus" ; Times: 2
+	Query: "specificepithet:canadensis genus:Cardellina mappable:1 tissue:1" ; Times: 1
+	Query: "mellisuga tissue:1" ; Times: 1
+	Query: "perdix (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "Meiglyptes tukki tissue:1" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "colaptes pitius tissue:1" ; Times: 1
+	Query: "enicurus institutioncode:KU" ; Times: 1
+	Query: "coturnicops" ; Times: 1
+	Query: "specificepithet:fruticeti genus:Phrygilus" ; Times: 3
+	Query: "Falco peregrinus skel*" ; Times: 1
+	Query: "Pyrrhura frontalis" ; Times: 1
+	Query: "Pipile cumanensis cumanensis tissue:1" ; Times: 1
+	Query: "phylloscopus yunnanensis" ; Times: 2
+	Query: "pseudobulweria" ; Times: 1
+	Query: "specificepithet:japonicus genus:Zosterops tissue:1" ; Times: 1
+	Query: "Ortalis motmot motmot tissue:1" ; Times: 1
+	Query: "specificepithet:abbas genus:Thraupis tissue:1" ; Times: 1
+	Query: "Dendrocitta cinerascens ku" ; Times: 1
+	Query: "Penelope obscura obscura tissue:1" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 3
+	Query: "Heliodoxa xanthogonys guyana" ; Times: 1
+	Query: "empidonax flaviventris month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "(ploceus) institutioncode:KU" ; Times: 1
+	Query: "Hylopezus" ; Times: 1
+	Query: "type:specimen genus:Basileuterus mappable:1 tissue:1" ; Times: 3
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "Colinus" ; Times: 1
+	Query: "Chamaepetes goudotii goudotii tissue:1" ; Times: 1
+	Query: "Egretta tissue:1" ; Times: 1
+	Query: "Colinus nigrogularis type:specimen" ; Times: 1
+	Query: "melampitta" ; Times: 1
+	Query: "Meiglyptes institutioncode:KU" ; Times: 1
+	Query: "columbina inca" ; Times: 2
+	Query: "Penelope montagnii tissue:1" ; Times: 1
+	Query: "specificepithet:concinnus genus:Aegithalos tissue:1" ; Times: 1
+	Query: "KU 97527" ; Times: 3
+	Query: "Pandion haliaetus skel*" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "genus:megascops tissue:1" ; Times: 2
+	Query: "pulsatrix" ; Times: 2
+	Query: "genus:euphonia OR chlorophonia tissue:1" ; Times: 1
+	Query: "vultur" ; Times: 6
+	Query: "KU 6890" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 1
+	Query: "Spiza americana institutioncode:KU" ; Times: 1
+	Query: "Gallinula galeata skel*" ; Times: 1
+	Query: "Heliodoxa xanthogonys KU" ; Times: 1
+	Query: "genus:Thlypopsis tissue:1" ; Times: 1
+	Query: "Mitu tomentosa tissue:1" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "empidonax flaviventris tissue:1" ; Times: 1
+	Query: "Butastur" ; Times: 1
+	Query: "Cracidae institutioncode:KU tissue:1" ; Times: 1
+	Query: "Myrmotherula KU type:specimen" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT Alaska NOT film) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Butastur indicus" ; Times: 2
+	Query: "&#34;sylvietta rufescens&#34; tissue:1" ; Times: 1
+	Query: "phylloscopus coronatus" ; Times: 1
+	Query: "specificepithet:asio genus:megascops tissue:1" ; Times: 2
+	Query: "Mulleripicus pulverulentus tissue:1" ; Times: 1
+	Query: "Cyornis rufigastra" ; Times: 2
+	Query: "pycnonotus cafer" ; Times: 8
+	Query: "institutioncode:KU" ; Times: 1
+	Query: "genus:formicivora" ; Times: 1
+	Query: "regina tissue:1" ; Times: 1
+	Query: "grallaricula" ; Times: 1
+	Query: "Myrmotherula menetriesii KU type:specimen" ; Times: 2
+	Query: "Doricha tissue:1" ; Times: 2
+	Query: "Peucaea ruficauda tissue:1" ; Times: 1
+	Query: "type:specimen genus:Basileuterus institutioncode:KU mappable:1 tissue:1" ; Times: 1
+	Query: "specificepithet:guatemalae genus:megascops tissue:1" ; Times: 2
+	Query: "malimbus nest" ; Times: 12
+	Query: "Pharomachrus" ; Times: 1
+	Query: "(Sakesphorus canadensis) institutioncode:KU" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 2
+	Query: "catalognumber:23354 institutioncode:KU" ; Times: 1
+	Query: "Monasa type:specimen" ; Times: 1
+	Query: "Willisornis poecilinotus" ; Times: 1
+	Query: "genus:Cardellina mappable:1 tissue:1" ; Times: 2
+	Query: "colibri (skel OR skeleton)" ; Times: 1
+	Query: "dendrocitta cinerascens tissue:1" ; Times: 3
+	Query: "alcippe poioicephala" ; Times: 1
+	Query: "&#34;Criniger calurus&#34; tissue:1" ; Times: 1
+	Query: "bullsnake" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "genus:euphonia OR chlorophonia (euphonia OR chlorophonia) tissue:1" ; Times: 1
+	Query: "type:specimen genus:Plectrophenax tissue:1" ; Times: 1
+	Query: "malimbus type:specimen institutioncode:ku" ; Times: 2
+	Query: "Rhinomyias" ; Times: 1
+	Query: "picus tissue:1" ; Times: 1
+	Query: "Colinus type:specimen AND (virginianus)" ; Times: 1
+	Query: "Nothocrax urumutum tissue:1" ; Times: 1
+	Query: "Penelope marail tissue:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT Alaska NOT michigan NOT wisconsin) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "specificepithet:fruticeti genus:Phrygilus tissue:1" ; Times: 1
+	Query: "phylloscopus davisoni" ; Times: 2
+	Query: "genus:suthora" ; Times: 2
+	Query: "specificepithet:rufifrons genus:Rhipidura institutioncode:KU tissue:1" ; Times: 1
+	Query: "phylloscopus plumbeitarsus" ; Times: 1
+	Query: "Lepidocolaptes tissue:1" ; Times: 4
+	Query: "genus:Poospiza tissue:1" ; Times: 1
+	Query: "Fringilla coelebs institutioncode:KU" ; Times: 1
+	Query: "Rhinomyias goodfellowi" ; Times: 4
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Chrysocolaptes institutioncode:KU" ; Times: 1
+	Query: "catalognumber:20897 institutioncode:KU" ; Times: 1
+	Query: "chrysocolaptes tissue:1" ; Times: 1
+	Query: "turdus fuscater" ; Times: 4
+	Query: "Vultur gryphus tissue:1" ; Times: 5
+	Query: "type:specimen genus:Buphagus tissue:1" ; Times: 1
+	Query: "mulleripicus tissue:1" ; Times: 1
+	Query: "dendrocopos leucotos" ; Times: 1
+	Query: "thamnomanes ardesiacus" ; Times: 1
+	Query: "Poecilodryas albispecularis" ; Times: 2
+	Query: "muscicapa muttui" ; Times: 91
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 4
+	Query: "type:specimen country:&#34;peru&#34; specificepithet:viridis genus:pachyramphus tissue:1" ; Times: 1
+	Query: "Colinus nigrogularis type:specimen tissue:1" ; Times: 1
+	Query: "missouri" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "country:&#34;Dominican Republic&#34; class:Aves institutioncode:KU mappable:1" ; Times: 5
+	Query: "malimbus type:specimen institutioncode:ku tissue:1" ; Times: 1
+	Query: "malimbus" ; Times: 2
+	Query: "specificepithet:pusilla genus:Cardellina mappable:1 tissue:1" ; Times: 1
+	Query: "motacilla alba china ku" ; Times: 1
+	Query: "KU 12641" ; Times: 1
+	Query: "KU 12642" ; Times: 1
+	Query: "KU 890" ; Times: 2
+	Query: "KU 97495" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT UAM) month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "mellisuga minima tissue:1" ; Times: 1
+	Query: "type:specimen institutioncode:ku" ; Times: 1
+	Query: "Fulmarus glacialis skel*" ; Times: 2
+	Query: "KU 97499" ; Times: 2
+	Query: "specificepithet:ornata genus:Poospiza tissue:1" ; Times: 1
+	Query: "Cyornis hainanus" ; Times: 11
+	Query: "Fringilla institutioncode:KU" ; Times: 1
+	Query: "diglossa baritula year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "KU 28003" ; Times: 1
+	Query: "motacilla alba ku" ; Times: 1
+	Query: "Adelbert KU" ; Times: 3
+	Query: "type:specimen genus:Pipreola mappable:1 tissue:1" ; Times: 1
+	Query: "Ortalis guttata guttata tissue:1" ; Times: 1
+	Query: "dendrocopos hyperythrus tissue:1" ; Times: 2
+	Query: "Rhinomyias albigularis" ; Times: 8
+	Query: "GUYANA Sakesphorus canadensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 1045 download events in this period)
+Total number of records downloaded: 15086
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 3
+	Country: France ; Times: 4
+	Country: United States ; Times: 37
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 6
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-19 ; Times: 7
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-07 ; Times: 2
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-13 ; Times: 2
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-04 ; Times: 4
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-17 ; Times: 15
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-24 ; Times: 3
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-22 ; Times: 5
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-02 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "Rhegmatorhina" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "empidonax flaviventris month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "Cracidae tissue:1" ; Times: 1
+	Query: "Xiphorhynchus ocellatus" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "genus:suthora" ; Times: 2
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "type:specimen class:Aves year &gt;= 1960 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "type:specimen (ploceus) institutioncode:KU" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "Adelbert institutioncode:KU" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Cracidae institutioncode:KU tissue:1" ; Times: 1
+	Query: "turdus fuscater" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "thamnomanes ardesiacus" ; Times: 1
+	Query: "Heliodoxa xanthogonys KU" ; Times: 1
+	Query: "genus:megascops tissue:1" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 3
+	Query: "enicurus ruficapillus" ; Times: 1
+	Query: "Psophia" ; Times: 1
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "adelbert institutioncode:KU" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Papua" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "type:specimen genus:Basileuterus institutioncode:KU mappable:1 tissue:1" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "Cyornis hainanus" ; Times: 1
+	Query: "Willisornis poecilinotus" ; Times: 1
+	Query: "genus:Cardellina mappable:1 tissue:1" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "PNG" ; Times: 2
+
+
+End of report.
