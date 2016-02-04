@@ -1,0 +1,339 @@
+Report for Institution Code KU, Resource BirdsTissue
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 205
+Number of records retrieved in searches: 996
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Denmark ; Times: 4
+	Country: India ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Sweden ; Times: 8
+	Country: Switzerland ; Times: 1
+	Country: Thailand ; Times: 4
+	Country: United States ; Times: 163
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 10
+	Date: 2016-01-02 ; Times: 15
+	Date: 2016-01-03 ; Times: 5
+	Date: 2016-01-04 ; Times: 24
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-06 ; Times: 15
+	Date: 2016-01-07 ; Times: 4
+	Date: 2016-01-08 ; Times: 13
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-11 ; Times: 7
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 6
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-16 ; Times: 10
+	Date: 2016-01-17 ; Times: 11
+	Date: 2016-01-18 ; Times: 3
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-20 ; Times: 7
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-22 ; Times: 22
+	Date: 2016-01-24 ; Times: 2
+	Date: 2016-01-25 ; Times: 7
+	Date: 2016-01-26 ; Times: 7
+	Date: 2016-01-27 ; Times: 8
+	Date: 2016-01-28 ; Times: 5
+	Date: 2016-01-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas superciliosa tissue:1" ; Times: 1
+	Query: "ku 28089" ; Times: 1
+	Query: "yuhina castaniceps castaniceps" ; Times: 1
+	Query: "urubambensis ku" ; Times: 1
+	Query: "type:specimen (Anisognathus igniventris)" ; Times: 1
+	Query: "paradisaea tissue:1" ; Times: 1
+	Query: "Anisognathus somptuosus" ; Times: 1
+	Query: "Herpsilochmus roraimae type:specimen sex:female year >= 1965 year <= 2016" ; Times: 1
+	Query: "specificepithet:lugubris genus:Surniculus tissue:1" ; Times: 1
+	Query: "trogon melanocephalus institutioncode:KU" ; Times: 1
+	Query: "Zosterops ugiensis" ; Times: 1
+	Query: "syndactyla subalaris" ; Times: 2
+	Query: "specificepithet:asio genus:Megascops institutioncode:KU" ; Times: 1
+	Query: "Vireo pallens" ; Times: 1
+	Query: "Dendrocitta formosae tissue:1" ; Times: 1
+	Query: "thamnophilus insignis year >= 1965" ; Times: 1
+	Query: "actenoides" ; Times: 1
+	Query: "Tanysiptera galatea 5191 institutioncode:KU" ; Times: 1
+	Query: "Catharus dryas" ; Times: 2
+	Query: "halcyon chelicuti" ; Times: 2
+	Query: ""Heliangelus amethysticollis"" ; Times: 1
+	Query: "struthio tissue:1" ; Times: 1
+	Query: "Urocissa flavirostris tissue:1" ; Times: 1
+	Query: "(melampitta) tissue:1" ; Times: 2
+	Query: "type:specimen genus:Cracticus institutioncode:KU tissue:1" ; Times: 1
+	Query: "thamnophilus insignis year >= 1965 institutioncode:KU" ; Times: 1
+	Query: "epimachus tissue:1" ; Times: 1
+	Query: "ku 19868" ; Times: 1
+	Query: ""Hemispingus atropileus"" ; Times: 1
+	Query: "atlapetes tricolor year >= 2008 year <= 2008" ; Times: 1
+	Query: ""Premnoplex brunnescens"" ; Times: 1
+	Query: "Ptilorrhoa leucosticta" ; Times: 1
+	Query: "Indicator archipelagicus" ; Times: 1
+	Query: "Empidonax occidentalis tissue:1" ; Times: 1
+	Query: "rhipidura brachyrhyncha" ; Times: 2
+	Query: "pah ptilocichla" ; Times: 4
+	Query: "waigiuensis tissue:1" ; Times: 1
+	Query: ""Iridosornis analis"" ; Times: 1
+	Query: "ku 1703" ; Times: 1
+	Query: "PAH 575" ; Times: 1
+	Query: "syma megarhyncha" ; Times: 4
+	Query: "urubambensis" ; Times: 1
+	Query: "Cissa chinensis tissue:1" ; Times: 1
+	Query: "Herpsilochmus stictocephalus type:specimen" ; Times: 1
+	Query: "schistocichla saturata type:specimen year >= 1965 year <= 2016" ; Times: 1
+	Query: "KU 90079" ; Times: 1
+	Query: "turnicidae tissue" ; Times: 1
+	Query: "specificepithet:parva genus:microdynamis tissue:1" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "skin genus: Eucometis sex:male" ; Times: 1
+	Query: "cnemophilus" ; Times: 1
+	Query: "anas capensis tissue:1" ; Times: 1
+	Query: "genus:Turnix tissue:1" ; Times: 1
+	Query: "pharomachrus type:specimen" ; Times: 2
+	Query: "ku 28150" ; Times: 1
+	Query: ""Lepidocolaptes lacrymiger"" ; Times: 1
+	Query: ""Hemispingus superciliaris"" ; Times: 1
+	Query: "myrmotherula guttata type:specimen sex:female year >= 1965" ; Times: 2
+	Query: "syma megarhyncha tissue:1" ; Times: 1
+	Query: "specificepithet:scolopacea genus:Eudynamys tissue:1" ; Times: 1
+	Query: "Lacedo" ; Times: 2
+	Query: "ku 5572" ; Times: 1
+	Query: "KU scytalopus parvirostris" ; Times: 1
+	Query: "yuhina castaniceps" ; Times: 1
+	Query: "Bolborhynchus" ; Times: 1
+	Query: "unsm" ; Times: 1
+	Query: "Ammodramus humeralis" ; Times: 1
+	Query: "Herpsilochmus roraimae type:specimen sex:female" ; Times: 1
+	Query: "Catharus dryas El Salvador" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "cardellina pusilla month >= 12 month <= 12" ; Times: 1
+	Query: "icterus pectoralis" ; Times: 1
+	Query: "specificepithet:taitensis genus:Eudynamys tissue:1" ; Times: 1
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Sterna" ; Times: 1
+	Query: "genus:Lacedo tissue:1" ; Times: 1
+	Query: "pharomachrus year >= 1980 year <= 2016" ; Times: 1
+	Query: "anas papua tissue:1" ; Times: 1
+	Query: "Cissa hypoleuca tissue:1" ; Times: 1
+	Query: "manacus vitellinus" ; Times: 2
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "Cyphorhinus tissue:1" ; Times: 1
+	Query: "Cyphorhinus arada tissue:1" ; Times: 1
+	Query: ""Rhynchocyclus fulvipectus"" ; Times: 1
+	Query: "pah 625" ; Times: 2
+	Query: "thamnophilus insignis type:specimen sex:female year >= 1965" ; Times: 1
+	Query: "Dendrocitta frontalis tissue:1" ; Times: 1
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "type:specimen order:psittaciformes (ambigua)" ; Times: 1
+	Query: "ku 5279" ; Times: 1
+	Query: "schistocichla leucostigma type:specimen year >= 1965 year <= 2016" ; Times: 1
+	Query: "zoothera heinei" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "pah vireo olivaceus" ; Times: 1
+	Query: "paradisaea year >= 1980 year <= 2016 tissue:1" ; Times: 1
+	Query: "struthio type:specimen tissue:1" ; Times: 2
+	Query: "specificepithet:parva genus:Microdynamis tissue:1" ; Times: 1
+	Query: "Serpophaga subcristata argentina" ; Times: 1
+	Query: ""Haplophaedia aureliae"" ; Times: 1
+	Query: "harpactes institutioncode:KU" ; Times: 1
+	Query: "Chlorornis riefferii" ; Times: 1
+	Query: "genus:Stercorarius stateprovince:"Kansas"" ; Times: 1
+	Query: "specificepithet:mollissima genus:zoothera" ; Times: 2
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: ""Lafresnaya lafresnayi"" ; Times: 1
+	Query: "catalognumber:19248 institutioncode:KU" ; Times: 1
+	Query: "anas falcata tissue:1" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: ""Xenops rutilans"" ; Times: 1
+	Query: "anas bahamensis tissue:1" ; Times: 1
+	Query: "specificepithet:spurius genus:icterus year >= 1990 year <= 2016" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 1
+	Query: "(oxyruncus)" ; Times: 1
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "casiornis" ; Times: 1
+	Query: "catalognumber:10975 institutioncode:KU" ; Times: 1
+	Query: "catalognumber:8850 institutioncode:KU" ; Times: 1
+	Query: "ptiloris tissue:1" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "PAH 649" ; Times: 1
+	Query: "Rhipidura rufifrons tissue:1" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "specificepithet:rabori genus:Napothera institutioncode:KU tissue:1" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "zonotrichia atricapilla" ; Times: 1
+	Query: "Ammodramus humeralis mappable:1 tissue:1" ; Times: 2
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+	Query: "JRSL 164" ; Times: 2
+	Query: "astrapia tissue:1" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "thamnophilus insignis type:specimen year>=1965" ; Times: 1
+	Query: "Tadorna ferruginea" ; Times: 2
+	Query: "thamnophilus insignis type:specimen sex:male year >= 1965" ; Times: 1
+	Query: "Asthenes urubambensis" ; Times: 1
+	Query: "skin genus: Saltatricula sex:male" ; Times: 1
+	Query: "ku 19761" ; Times: 2
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "Herpsilochmus stictocephalus type:specimen year >= 1965 year <= 2016" ; Times: 1
+	Query: ""Pipreola arcuata"" ; Times: 1
+	Query: ""Pachyramphus versicolor"" ; Times: 1
+	Query: "ku 5552" ; Times: 1
+	Query: ""Pyriglena leuconota"" ; Times: 1
+	Query: "genus:myophonus institutioncode:KU" ; Times: 3
+	Query: "Ptilorrhoa castanonota" ; Times: 2
+	Query: "cymbilaimus sanctaemariae type:specimen" ; Times: 2
+	Query: "class:aves ("Catharus fuscescens")" ; Times: 1
+	Query: "Ammodramus humeralis tissue:1" ; Times: 1
+	Query: "muscicapa muttui" ; Times: 4
+	Query: "Brachypteryx montana tissue:1" ; Times: 3
+	Query: "Henicorhina leucosticta leucosticta" ; Times: 1
+	Query: "nothocercus type:specimen" ; Times: 1
+	Query: "hazel" ; Times: 1
+	Query: "paradigalla tissue:1" ; Times: 2
+	Query: "type:specimen genus:Strepera tissue:1" ; Times: 1
+	Query: "selasphorus" ; Times: 1
+	Query: "ku 112525" ; Times: 1
+	Query: ""Lophotriccus pileatus"" ; Times: 1
+	Query: "genus:pitta institutioncode:KU" ; Times: 2
+	Query: "parotia tissue:1" ; Times: 1
+	Query: "Bubo scandiacus wing" ; Times: 1
+	Query: ""Veniliornis nigriceps"" ; Times: 1
+	Query: "Huckleberry Ridge stateprovince:"Missouri"" ; Times: 1
+	Query: "zenaida auriculata" ; Times: 3
+	Query: "Corvus corax institutioncode:KU" ; Times: 1
+	Query: "azarae ku" ; Times: 1
+	Query: "genus:halcyon chelicuti tissue:1" ; Times: 1
+	Query: "Atlapetes tricolor ku" ; Times: 1
+	Query: "Juniperus" ; Times: 1
+	Query: "specificepithet:baeri genus:compsospiza tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 507 download events in this period)
+Total number of records downloaded: 1710 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1678
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: India ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: United States ; Times: 58
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 19
+	Date: 2016-01-02 ; Times: 20
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-25 ; Times: 7
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ramphastos toco" ; Times: 2
+	Query: "Anabacerthia striaticollis" ; Times: 1
+	Query: ""Diglossa cyanea"" ; Times: 1
+	Query: ""Coeligena torquata"" ; Times: 1
+	Query: ""Zonotrichia capensis"" ; Times: 1
+	Query: "skin genus: Chlorophanes sex:male" ; Times: 1
+	Query: "skin genus: Haplospiza sex:male" ; Times: 1
+	Query: "specificepithet:parva genus:microdynamis tissue:1" ; Times: 1
+	Query: ""Hemispingus frontalis"" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: ""Entomodestes leucotis"" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "skin genus: Sicalis sex:male" ; Times: 1
+	Query: "skin genus: Saltatricula sex:male" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "skin genus: Mitrospingus sex:male" ; Times: 1
+	Query: ""Tangara vassorii"" ; Times: 1
+	Query: ""Hemispingus xanthophthalmus"" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: ""Pachyramphus versicolor"" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: ""Myiarchus cephalotes"" ; Times: 1
+	Query: ""Haplophaedia aureliae"" ; Times: 1
+	Query: ""Pipreola arcuata"" ; Times: 1
+	Query: ""Lepidocolaptes lacrymiger"" ; Times: 1
+	Query: ""Platyrinchus mystaceus"" ; Times: 1
+	Query: ""Hemispingus superciliaris"" ; Times: 1
+	Query: ""Euphonia xanthogaster"" ; Times: 1
+	Query: ""Heliangelus amethysticollis"" ; Times: 1
+	Query: ""Lafresnaya lafresnayi"" ; Times: 1
+	Query: ""Myioborus miniatus"" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: ""Thraupis cyanocephala"" ; Times: 1
+	Query: ""Trogon personatus"" ; Times: 1
+	Query: ""Syndactyla rufosuperciliata"" ; Times: 1
+	Query: ""Doryfera ludovicae"" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: ""Xenops rutilans"" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: ""Lophotriccus pileatus"" ; Times: 1
+	Query: ""Pseudocolaptes boissonneautii"" ; Times: 1
+	Query: "genus:haliaeetus year >= 1996 year <= 2015" ; Times: 1
+	Query: ""Contopus fumigatus"" ; Times: 1
+	Query: ""Veniliornis nigriceps"" ; Times: 1
+	Query: ""Margarornis squamiger"" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "skin genus: Coryphospingus sex:male" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "Setophaga discolor type:specimen" ; Times: 1
+	Query: ""Coeligena coeligena"" ; Times: 1
+	Query: "country:"Mongolia" institutioncode:KU" ; Times: 1
+	Query: ""Elaenia pallatangae"" ; Times: 1
+	Query: ""Cyclarhis gujanensis"" ; Times: 1
+	Query: ""Premnoplex brunnescens"" ; Times: 1
+	Query: ""Tangara xanthocephala"" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Corvus corax institutioncode:KU" ; Times: 1
+	Query: "skin genus: Paroaria sex:male" ; Times: 1
+	Query: ""Iridosornis analis"" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 65
+Total number of records downloaded: 1710
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 205
+Total number of records retrieved from searches: 996
+Number of download events that retrieved data from the resource: 65
+Total number of records downloaded: 1710
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
