@@ -1,0 +1,118 @@
+Report for Institution Code KU, Resource kubi_ornithology_tissue
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 446
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 32
+	Country: Sweden ; Times: 2
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-08 ; Times: 7
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 5
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-12 ; Times: 1
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-13 ; Times: 3
+	Date: 2016-03-01 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Amblyornis year &gt;= 1990 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "Claravis mondetoura" ; Times: 1
+	Query: "Elaenia institutioncode:KU tissue:1" ; Times: 2
+	Query: "picumnus cirratus" ; Times: 1
+	Query: "ceyx erithacus" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "synallaxis type:specimen tissue:1" ; Times: 1
+	Query: "charmosyna institutioncode:KU tissue:1" ; Times: 1
+	Query: "falco mexicanus" ; Times: 2
+	Query: "diglossa sittoides" ; Times: 4
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "diglossa baritula" ; Times: 1
+	Query: "xiphorhynchus fuscus mappable:1" ; Times: 2
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "Chlamydera year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "phalacrocorax atriceps (yehuin)" ; Times: 1
+	Query: "xiphocolaptes institutioncode:KU mappable:1 tissue:1" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "catharus guttatus tissue:1" ; Times: 1
+	Query: "neopsittacus musschenbroekii tissue:1" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "Pyrrhura" ; Times: 1
+	Query: "Pachyramphus aglaiae tissue:1" ; Times: 1
+	Query: "tiaris obscura" ; Times: 2
+	Query: "(yehuin)" ; Times: 1
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "Charmosyna papou tissue:1" ; Times: 1
+	Query: "Aramus institutioncode:KU" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "&#34;tissue&#34; institutioncode:KU genus:philydor specificepithet: rufus" ; Times: 1
+	Query: "xiphorhynchus obsoletus mappable:1" ; Times: 1
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 2
+	Query: "Petrochelidon pyrrhonota type:specimen institutioncode:KU" ; Times: 1
+	Query: "albicollis institutioncode:KU mappable:1 tissue:1" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "prinia hodgsonii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 230 download events in this period)
+Total number of records downloaded: 907419
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-11 ; Times: 9
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Doricha eliza" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+	Query: "xiphorhynchus obsoletus mappable:1" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "type:specimen tissue:1" ; Times: 2
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "setophaga pitiayumi" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+
+
+End of report.
