@@ -1,0 +1,380 @@
+Report for Institution Code KU, Resource kubi_ornithology_tissue
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 352
+Number of records retrieved in searches: 4416
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Canada ; Times: 9
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 51
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Norway ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 17
+	Country: United Arab Emirates ; Times: 1
+	Country: Peru ; Times: 10
+	Country: Denmark ; Times: 17
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 180
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-09 ; Times: 15
+	Date: 2016-04-29 ; Times: 12
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-07 ; Times: 10
+	Date: 2016-04-06 ; Times: 24
+	Date: 2016-04-05 ; Times: 23
+	Date: 2016-04-04 ; Times: 11
+	Date: 2016-04-21 ; Times: 23
+	Date: 2016-04-20 ; Times: 16
+	Date: 2016-04-23 ; Times: 13
+	Date: 2016-04-08 ; Times: 10
+	Date: 2016-04-25 ; Times: 10
+	Date: 2016-04-24 ; Times: 11
+	Date: 2016-04-27 ; Times: 23
+	Date: 2016-04-26 ; Times: 39
+	Date: 2016-04-22 ; Times: 4
+	Date: 2016-04-18 ; Times: 6
+	Date: 2016-04-19 ; Times: 3
+	Date: 2016-04-14 ; Times: 6
+	Date: 2016-04-15 ; Times: 9
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-10 ; Times: 10
+	Date: 2016-04-11 ; Times: 26
+	Date: 2016-04-12 ; Times: 14
+	Date: 2016-04-13 ; Times: 19
+	Date: 2016-04-03 ; Times: 9
+	Date: 2016-04-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Hemipus picatus tissue:1" ; Times: 1
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:picoides institutioncode:KU tissue:1" ; Times: 1
+	Query: "Malurus grayi tissue:1" ; Times: 1
+	Query: "Elaenia spectabilis distance(location,geopoint(-11.178401873711785,-74.091796875))&lt;607798" ; Times: 1
+	Query: "halcyon smyrnensis institutioncode:ku" ; Times: 1
+	Query: "type:specimen genus:Aratinga (canicularis) institutioncode:KU" ; Times: 1
+	Query: "bleda eximius institutioncode:KU tissue:1" ; Times: 1
+	Query: "Pitohui cristatus tissue:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 2
+	Query: "Puffinus institutioncode:KU tissue:1" ; Times: 1
+	Query: "euphonia institutioncode:KU" ; Times: 11
+	Query: "specificepithet:ruficeps genus:pseudotriccus tissue:1" ; Times: 1
+	Query: "sclerurus scansor" ; Times: 2
+	Query: "Troglodytes aedon tissue:1" ; Times: 1
+	Query: "recurvirostra" ; Times: 1
+	Query: "sula granti" ; Times: 1
+	Query: "podargus ocellatus tissue:1" ; Times: 1
+	Query: "myrmothera simplex type:specimen" ; Times: 1
+	Query: "Atlapetes melanopsis" ; Times: 1
+	Query: "Phoenicopterus type:specimen tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-107.747516))&lt;15000" ; Times: 1
+	Query: "Cyornis tissue:1" ; Times: 1
+	Query: "dubusia taeniata" ; Times: 1
+	Query: "Poecilodryas placens tissue:1" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "megalura" ; Times: 1
+	Query: "type:specimen specificepithet:leucorrhoa genus:Tachycineta mappable:1" ; Times: 2
+	Query: "KU 3562" ; Times: 1
+	Query: "Pseudobulweria macgillivrayi institutioncode:KU tissue:1" ; Times: 1
+	Query: "Diglossa baritula KU Bird tissue 4921" ; Times: 2
+	Query: "pyrrhura molinae" ; Times: 7
+	Query: "Bonasa institutioncode:KU" ; Times: 4
+	Query: "12216" ; Times: 3
+	Query: "upucerthia serrana" ; Times: 2
+	Query: "Napothera rabori tissue:1" ; Times: 1
+	Query: "Cinnycerthia peruana" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 2
+	Query: "Sitta frontalis tissue:1" ; Times: 1
+	Query: "specificepithet:caerulescens genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "specificepithet:discolor genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-107.747516))&lt;15000" ; Times: 5
+	Query: "Pterodroma solandri institutioncode:KU tissue:1" ; Times: 1
+	Query: "KU 18786" ; Times: 1
+	Query: "Scytalopus gettyae" ; Times: 1
+	Query: "specificepithet:rubecula genus:Scelorchilus" ; Times: 1
+	Query: "Asthenes palpebralis" ; Times: 1
+	Query: "Seicercus poliogenys" ; Times: 10
+	Query: "Arremon flavirostris" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "Lepidothrix coeruleocapilla" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.047516))&lt;15000" ; Times: 1
+	Query: "cettia ruficapilla institutioncode:ku" ; Times: 1
+	Query: "formicivora rufa tissue:1" ; Times: 1
+	Query: "catalognumber:25184 institutioncode:KU" ; Times: 1
+	Query: "cettia parens" ; Times: 2
+	Query: "catalognumber:17256 institutioncode:KU" ; Times: 3
+	Query: "myiagra azureocapilla institutioncode:ku" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "Pipreola pulchra" ; Times: 1
+	Query: "KU 115069" ; Times: 1
+	Query: "Diglossa baritula KU Bird tissue 94118" ; Times: 1
+	Query: "Bucephala albeola" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "genus:crypturellus tissue:1" ; Times: 1
+	Query: "catalognumber:1383 institutioncode:KU" ; Times: 1
+	Query: "melidora institutioncode:ku" ; Times: 4
+	Query: "catalognumber:4109 institutioncode:KU" ; Times: 3
+	Query: "Myiagra nana institutioncode:ku" ; Times: 1
+	Query: "Asthenes virgata" ; Times: 1
+	Query: "KU 3756" ; Times: 1
+	Query: "Crypturellus undulatus undulatus" ; Times: 1
+	Query: "bleda canicapillus institutioncode:KU tissue:1" ; Times: 1
+	Query: "Elaenia spectabilis" ; Times: 2
+	Query: "Arremon taciturnus" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-107.917516))&lt;15000" ; Times: 4
+	Query: "lichtensteini" ; Times: 2
+	Query: "Diglossa baritula KU Bird tissue 7680" ; Times: 1
+	Query: "Pachycephala institutioncode:KU" ; Times: 1
+	Query: "type:specimen (Collocalia) year &gt;= 2012 year &lt;= 2012 institutioncode:KU" ; Times: 1
+	Query: "12470 tissue:1" ; Times: 2
+	Query: "KU 3298" ; Times: 1
+	Query: "Phylloscopus cebuensis" ; Times: 2
+	Query: "myrmotherula longipennis type:specimen sex:male" ; Times: 1
+	Query: "Myrmotherula axillaris institutioncode:KU" ; Times: 1
+	Query: "pyrrhura frontalis" ; Times: 2
+	Query: "trapping" ; Times: 1
+	Query: "nesasio solomonensis tissue:1" ; Times: 1
+	Query: "Cranioleuca albicapilla" ; Times: 1
+	Query: "aegotheles insignis" ; Times: 2
+	Query: "myrmotherula behni type:specimen" ; Times: 1
+	Query: "pnoepyga albiventer" ; Times: 1
+	Query: "specificepithet:sonneratii genus:Gallus" ; Times: 1
+	Query: "catalognumber:1116 institutioncode:KU" ; Times: 1
+	Query: "KU 48 pachyramphus" ; Times: 1
+	Query: "Pachyramphus viridis" ; Times: 1
+	Query: "Myiagra rubecula institutioncode:ku" ; Times: 2
+	Query: "Aphrastura spinicauda tissue:1" ; Times: 1
+	Query: "sylvietta rufescens tissue:1" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "nesasio solomonensis" ; Times: 1
+	Query: "Stachyris plateni tissue:1" ; Times: 1
+	Query: "genus:lepidothrix tissue:1" ; Times: 1
+	Query: "sylvietta virens tissue:1" ; Times: 1
+	Query: "specificepithet:major genus:Parus tissue:1" ; Times: 3
+	Query: "type:specimen genus:Psittacus (timneh)" ; Times: 2
+	Query: "distance(location,geopoint(23.139036,-105.877516))&lt;15000" ; Times: 1
+	Query: "seicercus poliogenys" ; Times: 1
+	Query: "scytalopus atratus" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Pachyramphus validus" ; Times: 1
+	Query: "phylloscartes eximius" ; Times: 1
+	Query: "specificepithet:atrocaudata genus:Terpsiphone institutioncode:KU" ; Times: 1
+	Query: "skin type:specimen genus:Calyptophilus sex:male" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 6
+	Query: "Myiagra cervinicauda institutioncode:ku" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Elanus leucurus type:specimen tissue:1" ; Times: 1
+	Query: "Euphonia institutioncode:KU" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Setophaga tissue:1" ; Times: 1
+	Query: "Irena puella tissue:1" ; Times: 1
+	Query: "malurus alboscapulatus" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "Stachyris nigrorum tissue:1" ; Times: 1
+	Query: "Oceanodroma melania institutioncode:KU tissue:1" ; Times: 1
+	Query: "roraimia type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:albilinea genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:discolor genus:Setophaga mappable:1" ; Times: 4
+	Query: "Stachyris whiteheadi tissue:1" ; Times: 1
+	Query: "specificepithet:unirufa genus:Synallaxis tissue:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "Pyrrhura molinae" ; Times: 1
+	Query: "Myiagra ruficollis institutioncode:ku" ; Times: 2
+	Query: "Turdus hauxwelli" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "Eurylaimus steerii tissue:1" ; Times: 1
+	Query: "specificepithet:wyatti genus:Asthenes country:&#34;Peru&#34;" ; Times: 1
+	Query: "Aegithina tiphia tissue:1" ; Times: 1
+	Query: "euphonia affinis institutioncode:KU" ; Times: 1
+	Query: "pachycephala pectoralis institutioncode:KU" ; Times: 1
+	Query: "type:specimen specificepithet:striata genus:Setophaga" ; Times: 2
+	Query: "syndactyla roraimae type:specimen" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "Chlorestes notata" ; Times: 1
+	Query: "Arses institutioncode:ku" ; Times: 2
+	Query: "genus:Asthenes stateprovince:&#34;Junin&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:caerulescens genus:setophaga month &gt;= 1 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "melidora" ; Times: 1
+	Query: "corythaeola cristata kansas" ; Times: 1
+	Query: "Nicator" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "Pycnonotus cafer tissue:1" ; Times: 1
+	Query: "genus:asthenes tissue:1" ; Times: 1
+	Query: "KU 2130" ; Times: 1
+	Query: "Leptopogon taczanowskii" ; Times: 1
+	Query: "Myiagra erythrops institutioncode:ku" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:virgata genus:Asthenes tissue:1" ; Times: 1
+	Query: "Trichocichla rufa tissue:1" ; Times: 1
+	Query: "Pachyptila belcheri institutioncode:KU tissue:1" ; Times: 1
+	Query: "Formicivora rufa institutioncode:KU" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "mimus saturninus" ; Times: 1
+	Query: "Petrochelidon pyrrhonota type:specimen institutioncode:KU" ; Times: 2
+	Query: "Setophaga discolor" ; Times: 2
+	Query: "14199" ; Times: 1
+	Query: "Diglossa baritula KU bird tissue 95418" ; Times: 1
+	Query: "euphonia chlorotica institutioncode:KU" ; Times: 1
+	Query: "genus:hemitriccus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-107.747516))&lt;15000" ; Times: 7
+	Query: "Bonasa umbellus type:specimen tissue:1" ; Times: 2
+	Query: "Melampitta" ; Times: 1
+	Query: "Eudynamys taitensis tissue:1" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "genus:asthenes stateprovince:&#34;Junin&#34; country:&#34;Peru&#34; tissue:1" ; Times: 1
+	Query: "Copsychus malabaricus tissue:1" ; Times: 1
+	Query: "Pterodroma lessonii institutioncode:KU tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-107.917516))&lt;15000" ; Times: 4
+	Query: "genus:Cranioleuca stateprovince:&#34;Junin&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:ottonis genus:Asthenes tissue:1" ; Times: 1
+	Query: "type:specimen (Harpactes ardens) institutioncode:KU" ; Times: 1
+	Query: "16438 tissue:1" ; Times: 1
+	Query: "ku lophura bulweri" ; Times: 1
+	Query: "type:specimen specificepithet:papou genus:charmosyna institutioncode:KU" ; Times: 1
+	Query: "91380" ; Times: 1
+	Query: "schiffornis virescens" ; Times: 3
+	Query: "dimidiata" ; Times: 2
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "Elanus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "MYIOBIUS ATRICAUDUS" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "type:specimen (Harpactes ardens) year &gt;= 2011 year &lt;= 2013 institutioncode:KU" ; Times: 1
+	Query: "Myiagra hebetior institutioncode:ku" ; Times: 2
+	Query: "Diglossa baritula KU Bird tissue 95418" ; Times: 2
+	Query: "Myiornis auricularis" ; Times: 1
+	Query: "Schistocichla saturata" ; Times: 1
+	Query: "class:aves catalognumber:23552" ; Times: 1
+	Query: "Setophaga striata" ; Times: 2
+	Query: "type:specimen specificepithet:meyeni genus:Tachycineta mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.977516))&lt;15000" ; Times: 3
+	Query: "KU 3314" ; Times: 1
+	Query: "Melampitta tissue:1" ; Times: 1
+	Query: "Myiagra alecto institutioncode:ku" ; Times: 1
+	Query: "Trogon surrucura" ; Times: 1
+	Query: "bleda syndactylus institutioncode:KU tissue:1" ; Times: 1
+	Query: "specificepithet:tigrina genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "podargus ocellatus" ; Times: 1
+	Query: "skin type:specimen specificepithet:dominicensis genus:Spindalis sex:male" ; Times: 1
+	Query: "Philydor lichtensteini" ; Times: 1
+	Query: "sylvietta brachyura tissue:1" ; Times: 2
+	Query: "genus:cranioleuca stateprovince:&#34;Junin&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Elaenia spectabilis distance(location,geopoint(-11.178401873711785,-74.091796875))&lt;100000" ; Times: 1
+	Query: "catalognumber:8292 institutioncode:KU" ; Times: 2
+	Query: "Asthenes ottonis" ; Times: 1
+	Query: "cyornis concretus" ; Times: 1
+	Query: "myiagra azureocapilla" ; Times: 3
+	Query: "10371" ; Times: 1
+	Query: "Coracina mcgregori tissue:1" ; Times: 1
+	Query: "cettia institutioncode:ku" ; Times: 2
+	Query: "myiobius atricaudus" ; Times: 1
+	Query: "Pterodroma brevipes institutioncode:KU tissue:1" ; Times: 1
+	Query: "Pomatorhinus ochraceiceps" ; Times: 1
+	Query: "catalognumber:1985 institutioncode:KU" ; Times: 1
+	Query: "Daption capense institutioncode:KU tissue:1" ; Times: 1
+	Query: "KU AND Santa Cruz Island" ; Times: 1
+	Query: "genus:onychorhynchus tissue:1" ; Times: 2
+	Query: "type:specimen genus:Asthenes family:Furnariidae country:&#34;Peru&#34; tissue:1" ; Times: 2
+	Query: "Oceanodroma leucorhoa tissue:1" ; Times: 6
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "catalognumber:10221 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:tigrina genus:Setophaga month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "KU 48" ; Times: 1
+	Query: "Pitta kochi skin" ; Times: 1
+	Query: "zosterops institutioncode:KU tissue:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1312 download events in this period)
+Total number of records downloaded: 807
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 2
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 2
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-23 ; Times: 3
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-27 ; Times: 4
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-20 ; Times: 5
+	Date: 2016-04-21 ; Times: 8
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-10 ; Times: 3
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Melampitta" ; Times: 1
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "Picidae mappable:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:albilinea genus:Tachycineta mappable:1" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 2
+	Query: "sialia sialis" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "Phoenicopterus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Turdus hauxwelli" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:leucorrhoa genus:Tachycineta mappable:1" ; Times: 1
+	Query: "aves" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "specificepithet:caerulescens genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "specificepithet:discolor genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "Seicercus poliogenys" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Doricha eliza" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Bonasa umbellus type:specimen tissue:1" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "class:aves" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "Petrochelidon pyrrhonota type:specimen institutioncode:KU" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa tissue:1" ; Times: 3
+	Query: "specificepithet:tigrina genus:Setophaga month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
