@@ -1,0 +1,245 @@
+Report for Institution Code KU, Resource kubi_ornithology_tissue
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 201
+Number of records retrieved in searches: 2135
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 151
+	Country: Malaysia ; Times: 2
+	Country: Australia ; Times: 16
+	Country: Germany ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: China ; Times: 3
+	Country: Ukraine ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 6
+	Date: 2016-05-18 ; Times: 4
+	Date: 2016-05-17 ; Times: 3
+	Date: 2016-05-16 ; Times: 6
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 10
+	Date: 2016-05-12 ; Times: 18
+	Date: 2016-05-11 ; Times: 7
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-31 ; Times: 74
+	Date: 2016-05-30 ; Times: 4
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 2
+	Date: 2016-05-02 ; Times: 2
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-26 ; Times: 6
+	Date: 2016-05-27 ; Times: 19
+	Date: 2016-05-24 ; Times: 8
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-23 ; Times: 3
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 15
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "myzomela rosenbergii institutioncode:KU" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "KU BirdsTissue 24341" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 2
+	Query: "Neophema tissue:1" ; Times: 2
+	Query: "myzomela pammelaena" ; Times: 6
+	Query: "Pyrenestes institutioncode:KU tissue:1" ; Times: 1
+	Query: "Myzomela eques" ; Times: 4
+	Query: "crateroscelis robusta institutioncode:KU" ; Times: 1
+	Query: "TROGON MASSENA" ; Times: 2
+	Query: "KU BirdsTissue Myiagra ruficollis" ; Times: 1
+	Query: "aegotheles insignis" ; Times: 1
+	Query: "Alcippe institutioncode:KU tissue:1" ; Times: 1
+	Query: "KU BirdsTissue 26539" ; Times: 1
+	Query: "KU BirdsTissue 5288" ; Times: 2
+	Query: "Amazona tissue:1" ; Times: 1
+	Query: "KU BirdsTissue 26535" ; Times: 2
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "tyrannus melancholicus institutioncode:KU tissue:1" ; Times: 3
+	Query: "Urocissa flavirostris institutioncode:KU tissue:1" ; Times: 1
+	Query: "neophema tissue:1" ; Times: 13
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "catalognumber:24559 institutioncode:KU" ; Times: 1
+	Query: "KU BirdsTissue 24358" ; Times: 2
+	Query: "specificepithet:mesochrysa genus:Euphonia tissue:1" ; Times: 1
+	Query: "specificepithet:nuttallii genus:picoides institutioncode:KU" ; Times: 1
+	Query: "mimizuku gurneyi" ; Times: 3
+	Query: "Illadopsis" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 2
+	Query: "Garrulus glandarius institutioncode:KU tissue:1" ; Times: 1
+	Query: "nandayus tissue:1" ; Times: 1
+	Query: "KU BirdsTissue 22747" ; Times: 1
+	Query: "specificepithet:dahli country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "institutioncode: KU myiagra" ; Times: 2
+	Query: "(Dulus) tissue:1" ; Times: 1
+	Query: "Cyanolyca viridicyanus institutioncode:KU tissue:1" ; Times: 1
+	Query: "Myzomela jugularis" ; Times: 2
+	Query: "KU 6745" ; Times: 2
+	Query: "Cyanocorax melanocyaneus institutioncode:KU tissue:1" ; Times: 1
+	Query: "Myiagra ruficollis institutioncode:ku" ; Times: 1
+	Query: "grus" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "KU BirdsTissue 24399" ; Times: 1
+	Query: "KU 94650" ; Times: 1
+	Query: "ku 99225" ; Times: 1
+	Query: "otus fuliginosus" ; Times: 1
+	Query: "Malurus alboscapulatus institutioncode:KU" ; Times: 1
+	Query: "Uroglaux dimorpha" ; Times: 1
+	Query: "Myzomela sclateri" ; Times: 5
+	Query: "cissa chinensis institutioncode:KU tissue:1" ; Times: 1
+	Query: "institutioncode:KU MJA 784" ; Times: 1
+	Query: "KU BirdsTissue 24270" ; Times: 2
+	Query: "KU BirdsTissue 22512" ; Times: 1
+	Query: "KU BirdsTissue 22517" ; Times: 1
+	Query: "Psilorhinus morio institutioncode:KU tissue:1" ; Times: 1
+	Query: "KU BirdsTissue 22728" ; Times: 1
+	Query: "KU BirdsTissue 22520" ; Times: 2
+	Query: "KU BirdsTissue 22725" ; Times: 1
+	Query: "gbifdatasetid:16e1958f-cb0a-445d-98cf-4073b344f268" ; Times: 3
+	Query: "Pyrrhocorax pyrrhocorax institutioncode:KU tissue:1" ; Times: 1
+	Query: "Coccyzus americanus tissue:1" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "KU BirdsTissue 24389" ; Times: 2
+	Query: "Urocissa erythrorhyncha institutioncode:KU tissue:1" ; Times: 1
+	Query: "Cyanocitta cristata institutioncode:KU tissue:1" ; Times: 2
+	Query: "Corvus macrorhynchos institutioncode:KU tissue:1" ; Times: 1
+	Query: "KU BirdsTissue 22506" ; Times: 1
+	Query: "KU BirdsTissue 24304" ; Times: 1
+	Query: "Myzomela adolphinae" ; Times: 1
+	Query: "KU BirdsTissue 25228" ; Times: 2
+	Query: "Myzomela institutioncode:KU" ; Times: 1
+	Query: "KU BirdsTissue 18119" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "KU BirdsTissue 24393" ; Times: 2
+	Query: "specificepithet:xanthogaster genus:Euphonia tissue:1" ; Times: 1
+	Query: "ku atp" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "institutioncode:KU Myiagra" ; Times: 2
+	Query: "class:aves locality:bintulu" ; Times: 1
+	Query: "myzomela institutioncode:KU" ; Times: 7
+	Query: "Pnoepyga albiventer institutioncode:KU tissue:1" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "siphonorhis brewsteri" ; Times: 2
+	Query: "neophema pulchella institutioncode:KU tissue:1" ; Times: 1
+	Query: "Myzomela cineracea" ; Times: 4
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "KU BirdsTissue 24325" ; Times: 1
+	Query: "Podoces hendersoni institutioncode:KU tissue:1" ; Times: 1
+	Query: "Pica pica institutioncode:KU tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:azureocapilla genus:Myiagra institutioncode:KU" ; Times: 1
+	Query: "troglodytes musculus" ; Times: 1
+	Query: "nesoctites micromegas" ; Times: 1
+	Query: "KU BirdsTissue 26500" ; Times: 2
+	Query: "KU BirdsTissue 26503" ; Times: 1
+	Query: "Dendrocincla turdina" ; Times: 1
+	Query: "KU 113218" ; Times: 3
+	Query: "KU BirdsTissue 22544" ; Times: 1
+	Query: "philesturnus tissue:1" ; Times: 1
+	Query: "Dendrocitta cinerascens institutioncode:KU tissue:1" ; Times: 1
+	Query: "institutioncode: KU myiagra azureocapilla" ; Times: 1
+	Query: "institutioncode:KU mja 990" ; Times: 1
+	Query: "KU BirdsTissue 24330" ; Times: 2
+	Query: "crateroscelis institutioncode:KU" ; Times: 2
+	Query: "Myzomela melanocephala" ; Times: 3
+	Query: "campbell tissue:1" ; Times: 1
+	Query: "genus:Euphonia tissue:1" ; Times: 1
+	Query: "Lioparus" ; Times: 1
+	Query: "specificepithet:musica genus:Euphonia tissue:1" ; Times: 2
+	Query: "caprimulgus indicus" ; Times: 3
+	Query: "KU BirdsTissue 22553" ; Times: 2
+	Query: "Cissa hypoleuca institutioncode:KU tissue:1" ; Times: 1
+	Query: "anser" ; Times: 1
+	Query: "KU BirdsTissue 22558" ; Times: 2
+	Query: "specificepithet:xanthogaster genus:Euphonia country:&#34;Guyana&#34; tissue:1" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Euphonia tissue:1" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx tissue:1" ; Times: 1
+	Query: "genus:Platysteira tissue:1" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "remiz tissue" ; Times: 1
+	Query: "myiagra azureocapilla" ; Times: 1
+	Query: "Dendrocitta formosae institutioncode:KU tissue:1" ; Times: 1
+	Query: "specificepithet:elegantissima genus:Euphonia tissue:1" ; Times: 1
+	Query: "Parmoptila institutioncode:KU tissue:1" ; Times: 1
+	Query: "Dendrocitta frontalis institutioncode:KU tissue:1" ; Times: 1
+	Query: "Myiagra ruficollis institutioncode:KU" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene tissue:1" ; Times: 1
+	Query: "KU BirdsTissue 24340" ; Times: 1
+	Query: "catalognumber:19927 institutioncode:KU" ; Times: 1
+	Query: "Nucifraga caryocatactes institutioncode:KU tissue:1" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 1
+	Query: "KU BirdsTissue" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 327 download events in this period)
+Total number of records downloaded: 1898
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 4
+	Country: China ; Times: 7
+	Country: Chile ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 2
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 4
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-31 ; Times: 4
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "crateroscelis institutioncode:KU" ; Times: 1
+	Query: "Babax" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "Malurus alboscapulatus institutioncode:KU" ; Times: 1
+	Query: "Pnoepyga albiventer institutioncode:KU tissue:1" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "nandayus tissue:1" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "(Dulus) tissue:1" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
