@@ -1,0 +1,357 @@
+Report for Institution Code KU, Resource kubi_ornithology_tissue
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 306
+Number of records retrieved in searches: 2244
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 16
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 33
+	Country: Hong Kong ; Times: 8
+	Country: Denmark ; Times: 37
+	Country: Singapore ; Times: 11
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 7
+	Country: Chile ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: South Korea ; Times: 4
+	Country: United States ; Times: 139
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 4
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 13
+	Date: 2016-06-08 ; Times: 16
+	Date: 2016-06-21 ; Times: 20
+	Date: 2016-06-20 ; Times: 10
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-04 ; Times: 10
+	Date: 2016-06-07 ; Times: 8
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-01 ; Times: 22
+	Date: 2016-06-03 ; Times: 17
+	Date: 2016-06-02 ; Times: 17
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-22 ; Times: 8
+	Date: 2016-06-18 ; Times: 8
+	Date: 2016-06-16 ; Times: 26
+	Date: 2016-06-17 ; Times: 37
+	Date: 2016-06-14 ; Times: 16
+	Date: 2016-06-15 ; Times: 16
+	Date: 2016-06-12 ; Times: 5
+	Date: 2016-06-13 ; Times: 13
+	Date: 2016-06-10 ; Times: 9
+	Date: 2016-06-11 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas acuta" ; Times: 1
+	Query: "phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "Platysteira tissue:1" ; Times: 1
+	Query: "Phacellodomus rufifrons tissue:1" ; Times: 2
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "99393" ; Times: 1
+	Query: "Pheugopedius maculipectus tissue:1" ; Times: 1
+	Query: "Psilorhinus morio tissue:1" ; Times: 1
+	Query: "uroglaux" ; Times: 1
+	Query: "buteo rufinus" ; Times: 1
+	Query: "radjah tissue:1" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "myzomela cardinalis" ; Times: 1
+	Query: "Saltator atriceps tissue:1" ; Times: 1
+	Query: "genus:Terpsiphone tissue:1" ; Times: 5
+	Query: "francolinus type:specimen tissue:1" ; Times: 1
+	Query: "goura" ; Times: 1
+	Query: "specificepithet:fulvigula genus:Timeliopsis tissue:1" ; Times: 1
+	Query: "hemitriccus margaritaceiventer tissue:1" ; Times: 1
+	Query: "anas specularis tissue:1" ; Times: 1
+	Query: "conirostrum institutioncode:ku" ; Times: 1
+	Query: "Bubalornis tissue:1" ; Times: 1
+	Query: "Rhinomyias brunneata" ; Times: 7
+	Query: "Meleagris" ; Times: 2
+	Query: "Micronisus tissue:1" ; Times: 2
+	Query: "KU lepidocolaptes" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "sylvietta virens institutioncode:KU" ; Times: 1
+	Query: "Myzomela erythrocephala institutioncode:KU tissue:1" ; Times: 1
+	Query: "specificepithet:leucosticta genus:Henicorhina year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Hemitriccus margaritaceiventer tissue:1" ; Times: 2
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "amazilia rutila institutioncode:KU tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:erythrophrys genus:Poospiza sex:male" ; Times: 1
+	Query: "Gallirallus torquatus tissue:1" ; Times: 1
+	Query: "phalaropus tricolor tissue:1" ; Times: 1
+	Query: "annamensis" ; Times: 1
+	Query: "KU 18786" ; Times: 1
+	Query: "Philesturnus tissue:1" ; Times: 1
+	Query: "setophaga ruticilla type:specimen tissue:1" ; Times: 3
+	Query: "MEGASCOPS KENNICOTTII" ; Times: 4
+	Query: "Laniisoma tissue:1" ; Times: 3
+	Query: "Tilmatura tissue:1" ; Times: 1
+	Query: "phacellodomus rufifrons tissue:1" ; Times: 5
+	Query: "Geothlypis poliocephala tissue:1" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "genus:Salpornis tissue:1" ; Times: 2
+	Query: "Icterus icterus AND (galbula) tissue:1" ; Times: 2
+	Query: "120059" ; Times: 1
+	Query: "Dixiphia" ; Times: 1
+	Query: "class:Aves locality:Silvituc country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 2
+	Query: "monasa morphoeus tissue:1" ; Times: 1
+	Query: "111499" ; Times: 3
+	Query: "genus:Melophus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:baeri sex:male (Poospiza OR Compsocoma OR Compsospiza)" ; Times: 1
+	Query: "montifringilla nivalis" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 1
+	Query: "KU 97526" ; Times: 1
+	Query: "KU 97525" ; Times: 1
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "KU 97523" ; Times: 1
+	Query: "KU 97522" ; Times: 1
+	Query: "KU 97521" ; Times: 2
+	Query: "Dixiphia tissue:1" ; Times: 3
+	Query: "empidonax traillii" ; Times: 1
+	Query: "eleothreptus" ; Times: 1
+	Query: "querula purpurata" ; Times: 2
+	Query: "setophaga ruticilla tissue:1" ; Times: 3
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "numenius tissue:1" ; Times: 6
+	Query: "98774" ; Times: 1
+	Query: "Thalassornis tissue:1" ; Times: 2
+	Query: "Cereopsis tissue:1" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 3
+	Query: "93683" ; Times: 1
+	Query: "cracidae mitu mitu" ; Times: 1
+	Query: "Ifrita" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "Ortalis type:specimen tissue:1" ; Times: 1
+	Query: "myzomela eques" ; Times: 3
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "KU 97516" ; Times: 1
+	Query: "KU 97517" ; Times: 1
+	Query: "KU 97514" ; Times: 3
+	Query: "88727" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "KU 97518" ; Times: 1
+	Query: "KU 97519" ; Times: 1
+	Query: "Ortalis vetula type:specimen tissue:1" ; Times: 1
+	Query: "cyanoderma" ; Times: 3
+	Query: "(unsm)" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "Prionops tissue:1" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "skel genus:ifrita" ; Times: 1
+	Query: "KU 97515" ; Times: 1
+	Query: "Phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Orthotomus sutorius Vietnam" ; Times: 1
+	Query: "Mimus dorsalis" ; Times: 1
+	Query: "Rollandia rolland" ; Times: 1
+	Query: "catalognumber:9960 institutioncode:KU" ; Times: 1
+	Query: "phacellodomus rufifrons" ; Times: 1
+	Query: "strix aluco tissue:1" ; Times: 1
+	Query: "specificepithet:oleagineus genus:Mionectes class:Aves country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "Momotus momota tissue:1" ; Times: 1
+	Query: "Calyptorhynchus funereus tissue:1" ; Times: 1
+	Query: "Sitta canadensis" ; Times: 1
+	Query: "Numenius tissue:1" ; Times: 1
+	Query: "Todiramphus chloris tissue:1" ; Times: 1
+	Query: "Penelope purpurascens purpurascens" ; Times: 1
+	Query: "diuca" ; Times: 2
+	Query: "skel specificepithet:marinus genus:larus" ; Times: 2
+	Query: "KU 3804" ; Times: 1
+	Query: "KU BirdsTissue 24389" ; Times: 1
+	Query: "Oreoscoptes montanus" ; Times: 1
+	Query: "Mergellus tissue:1" ; Times: 1
+	Query: "Numenius phaeopus tissue:1" ; Times: 1
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "Philentoma tissue:1" ; Times: 1
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "genus:Lampornis class:Aves year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "ammodramus bairdii" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 2
+	Query: "Branta canadensis" ; Times: 1
+	Query: "tadorna tissue:1" ; Times: 1
+	Query: "recordedby:Labedz" ; Times: 1
+	Query: "Nyctibius jamaicensis" ; Times: 3
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "harpagus bidentatus" ; Times: 1
+	Query: "phacellodomus tissue:1" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "ortalis vetula type:specimen year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "fregata ariel" ; Times: 1
+	Query: "clytomyias insignis" ; Times: 1
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "uroglaux dimorpha" ; Times: 1
+	Query: "bambusicola type:specimen tissue:1" ; Times: 1
+	Query: "Lorius lory tissue:1" ; Times: 1
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "KU 97520" ; Times: 1
+	Query: "regina tissue:1" ; Times: 1
+	Query: "Cyanocorax yncas tissue:1" ; Times: 1
+	Query: "institutioncode: KU 13537" ; Times: 1
+	Query: "Pericrocotus roseus" ; Times: 1
+	Query: "class:Aves country:&#34;Costa Rica&#34; year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 2
+	Query: "neomorphus" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 2
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "Buccanodon tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:palustris genus:Sporophila sex:male" ; Times: 1
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "institutioncode: KU myiagra azureocapilla" ; Times: 1
+	Query: "Gallirallus philippensis tissue:1" ; Times: 1
+	Query: "conirostrum speciosum institutioncode:ku" ; Times: 2
+	Query: "strix aluco" ; Times: 3
+	Query: "type:specimen specificepithet:somptuosus genus:Anisognathus sex:male" ; Times: 1
+	Query: "hedydipna type:specimen" ; Times: 1
+	Query: "type:specimen (Colibri thalassinus) year &gt;= 2000 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "cyanocorax yucatanicus" ; Times: 2
+	Query: "ninox jacquinoti" ; Times: 1
+	Query: "KU 97524" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "cyanistes" ; Times: 2
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "Oreopsittacus tissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Costa Rica&#34; year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Numenius arquata tissue:1" ; Times: 1
+	Query: "genus:Latoucheornis tissue:1" ; Times: 2
+	Query: "uroglaux dimorpha tissue:1" ; Times: 1
+	Query: "amazilia rutila tissue:1" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 2
+	Query: "Conirostrum speciosum tissue:1" ; Times: 1
+	Query: "Thryophilus tissue:1" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "ninox jacquinoti tissue:1" ; Times: 1
+	Query: "Phalacrocorax melanoleucos tissue:1" ; Times: 1
+	Query: "basileuterus culicivorus" ; Times: 1
+	Query: "buphagus" ; Times: 1
+	Query: "colinus type:specimen tissue:1" ; Times: 1
+	Query: "Numenius phaeopus phaeopus tissue:1" ; Times: 2
+	Query: "112237" ; Times: 1
+	Query: "Conirostrum bicolor tissue:1" ; Times: 2
+	Query: "mergellus tissue:1" ; Times: 1
+	Query: "conirostrum bicolor institutioncode:ku" ; Times: 1
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "Mimus triurus" ; Times: 1
+	Query: "Nyctibius jamaicensis tissue:1" ; Times: 1
+	Query: "aerodramus pelewensis" ; Times: 5
+	Query: "Tephrodornis tissue:1" ; Times: 2
+	Query: "Ploceus cucullatus 1" ; Times: 2
+	Query: "Hemipus tissue:1" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Busiek State Forest" ; Times: 1
+	Query: "Mimus patagonicus" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Kansas&#34; (contopus sordidulus) institutioncode:KU" ; Times: 1
+	Query: "genus:Acanthiza tissue:1" ; Times: 1
+	Query: "KU 25087" ; Times: 2
+	Query: "Tachyeres tissue:1" ; Times: 7
+	Query: "type:specimen specificepithet:montana genus:Buthraupis sex:male" ; Times: 1
+	Query: "KU BirdsTissue 24289" ; Times: 1
+	Query: "Carpodacus davidianus" ; Times: 2
+	Query: "francolinus bicalcaratus" ; Times: 1
+	Query: "genus:Salpornis" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 1
+	Query: "Icterus icterus tissue:1" ; Times: 2
+	Query: "Ixonotus tissue:1" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "96908" ; Times: 1
+	Query: "specificepithet:exulans genus:Diomedea tissue:1" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1052 download events in this period)
+Total number of records downloaded: 691
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 24
+	Country: Denmark ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 17
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 5
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 6
+	Date: 2016-06-21 ; Times: 4
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 8
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-02 ; Times: 4
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Platysteira tissue:1" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "goura" ; Times: 2
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "Philentoma tissue:1" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 1
+	Query: "Conirostrum speciosum tissue:1" ; Times: 1
+	Query: "Carpodacus davidianus" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "conirostrum institutioncode:ku" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Conirostrum bicolor tissue:1" ; Times: 1
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "Tephrodornis tissue:1" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "Hemipus tissue:1" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "Prionops tissue:1" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "specificepithet:oleagineus genus:Mionectes class:Aves country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Chordata tissue:1" ; Times: 1
+	Query: "hemitriccus margaritaceiventer tissue:1" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Momotus momota tissue:1" ; Times: 1
+
+
+End of report.
